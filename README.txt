@@ -121,4 +121,4 @@ Petri net-based prediction of therapeutic targets that recovers abnormally phosp
     1) ./network/transition.txt
  o output files
     1) printed output (the results of inconsistency)
-=========================================================  End of file =========================================
+=========================================================  End of file ========================================
