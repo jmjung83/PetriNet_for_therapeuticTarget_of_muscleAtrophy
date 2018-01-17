@@ -1,0 +1,15 @@
+LINE 77  : 2017-11-01 18:26:01,232 [INFO    ] Connecting to Enrichr Server to get latest library names
+LINE 87  : 2017-11-01 18:26:01,232 [INFO    ] Analysis name: BP2015, Enrichr Library: GO_Biological_Process_2015
+LINE 208 : 2017-11-01 18:26:01,236 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 396 : 2017-11-01 18:26:01,736 [DEBUG   ] http://amp.pharm.mssm.edu:80 "POST /Enrichr/addList HTTP/1.1" 200 46
+LINE 104 : 2017-11-01 18:26:02,739 [DEBUG   ] Job ID:{u'userListId': 5521095, u'shortId': u'2s0ep'}
+LINE 208 : 2017-11-01 18:26:02,740 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 396 : 2017-11-01 18:26:03,207 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/view?userListId=5521095 HTTP/1.1" 200 340
+LINE 112 : 2017-11-01 18:26:03,209 [INFO    ] Submitted gene list:{u'userListId': 5521095, u'shortId': u'2s0ep'}
+LINE 208 : 2017-11-01 18:26:03,210 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 396 : 2017-11-01 18:26:06,029 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/enrich?userListId=5521095&backgroundType=GO_Biological_Process_2015 HTTP/1.1" 200 None
+LINE 122 : 2017-11-01 18:26:06,688 [DEBUG   ] Get enrichment results: Job Id:{u'userListId': 5521095, u'shortId': u'2s0ep'}
+LINE 208 : 2017-11-01 18:26:06,690 [DEBUG   ] Starting new HTTP connection (1): amp.pharm.mssm.edu
+LINE 396 : 2017-11-01 18:26:09,678 [DEBUG   ] http://amp.pharm.mssm.edu:80 "GET /Enrichr/export?userListId=5521095&filename=GO_Biological_Process_2015.BP2015.enrichr.reports&backgroundType=GO_Biological_Process_2015 HTTP/1.1" 200 None
+LINE 137 : 2017-11-01 18:26:09,680 [INFO    ] Downloading file of enrichment results: Job Id:{u'userListId': 5521095, u'shortId': u'2s0ep'}
+LINE 145 : 2017-11-01 18:26:11,036 [DEBUG   ] Results written to: enrichedGOTerms/GO_Biological_Process_2015.BP2015.enrichr.reports.txt

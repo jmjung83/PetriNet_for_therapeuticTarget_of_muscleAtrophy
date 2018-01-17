@@ -1,0 +1,1096 @@
+Phosphatase	Substrate	Substrate type	Substrate source organism	Dephosphorylation site	Bioassay type	PubMed ID
+ACP6	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	10506173
+ACPP	glycerol 2-phosphate	non-protein substrate	N/A	N/A	In vitro	29722, 10506173
+ACPP	5'-AMP	non-protein substrate	N/A	N/A	In vitro and in vivo	18940592
+ACPP	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro and in vivo	15280042, 10506173
+ACPP	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	10506173
+ACPP	thiamine monophosphate	non-protein substrate	N/A	N/A	In vivo	18940592
+ACPP	ERBB2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11067847, 9705354
+ACPT	ERBB4	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	15219672
+AP-TNAP	5'-AMP	non-protein substrate	N/A	N/A	In vitro	12560324
+AP-TNAP	Histone H2A	protein substrate	Homo sapiens (Human)	N/A	In vitro	6167574
+AP-TNAP	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+BPGM	2,3-bisphospho-D-glycerate	non-protein substrate	N/A	N/A	In vitro and in vivo	14829, 5687724, 4694722
+BPNT1	3'-phospho-5'-adenylyl sulfate	non-protein substrate	N/A	N/A	In vitro	10224133
+BPNT1	adenosine 3',5'-bisphosphate	non-protein substrate	N/A	N/A	In vitro	10224133
+BPNT1	Ins(1,3,4)P3	non-protein substrate	N/A	N/A	In vitro	10224133
+BPNT1	Ins(1,4)P2	non-protein substrate	N/A	N/A	In vitro	10224133
+C1-TEN	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vivo	20678486
+CaMKPase	CaMK IV	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	15680915
+CaMKPase	CaMKI-alpha	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	15680915
+CaMKPase	PAK1	protein substrate	Rattus norvegicus (Rat)	Ser-57, Thr-422 	In vitro and in vivo	11864573
+CaMKPase	CaMK-II subunit alpha	protein substrate	Rattus norvegicus (Rat)	Thr-286	In vitro	15140879
+CaMKP-N	CaMK IV	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	11726284
+CaMKP-N	PAK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	11864573
+CD45	JAK3	protein substrate	Homo sapiens (Human)	N/A	In vitro	11994288
+CD45	TCRZ	protein substrate	Homo sapiens (Human)	N/A	In vitro	7526385
+CD45	JAK2	protein substrate	Mus musculus (Mouse)	Tyr-1007, Tyr-1008	In vitro	11201744
+CD45	JAK1	protein substrate	Mus musculus (Mouse)	Tyr-1033, Tyr-1034 	In vitro and in vivo	11201744, 11994288
+CD45	TYK2	protein substrate	Homo sapiens (Human)	Tyr-1054, Tyr-1055	In vitro	11201744
+CD45	SKAP1	protein substrate	Homo sapiens (Human)	Tyr-232	In vivo	11909961
+CD45	LYN	protein substrate	Mus musculus (Mouse)	Tyr-397, Tyr-508	In vitro and in vivo	10415030, 7499277
+CD45	LCK	protein substrate	Mus musculus (Mouse)	Tyr-505	In vivo	2530588, 8433999, 2141630, 8441403, 8576115
+CD45	FYN	protein substrate	Homo sapiens (Human)	Tyr-531	In vivo	1533589
+CD73	5'-AMP	non-protein substrate	N/A	N/A	In vitro	6271180
+CD73	5'-GMP	non-protein substrate	N/A	N/A	In vitro	6271180
+CD73	5'-IMP	non-protein substrate	N/A	N/A	In vitro	6271180
+CDC14A	CDC25B	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	20956543
+CDC14A	CDH1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	12134069, 11598127
+CDC14A	p27Kip1	protein substrate	Homo sapiens (Human)	N/A	In vitro	12134069
+CDC14A	INCENP	protein substrate	Homo sapiens (Human)	N/A	In vitro	15263015
+CDC14A	RN-tre	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17371873
+CDC14A	SETD8	protein substrate	Homo sapiens (Human)	Ser-100 	In vitro and in vivo	20966048
+CDC14A	CDC25A	protein substrate	Homo sapiens (Human)	Ser-116, Ser-321 	In vitro	17172867
+CDC14A	IRE-BP 2	protein substrate	Homo sapiens (Human)	Ser-157	In vivo	18574241
+CDC14A	p53	protein substrate	Homo sapiens (Human)	Ser-315	In vitro and in vivo	10644693
+CDC14A	sirtuin-2	protein substrate	Homo sapiens (Human)	Ser-368	In vivo	17488717
+CDC14A	ERK3	protein substrate	Homo sapiens (Human)	Thr-698	In vivo	20236090
+CDC14A	KIF23	protein substrate	Homo sapiens (Human)	Thr-8, Thr-450	In vitro	15282614
+CDC14B	CDC25A	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21379580
+CDC14B	CDC25B	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21379580
+CDC14B	CDC25C	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21379580
+CDC14B	CDH1	protein substrate	Homo sapiens (Human)	N/A	In vivo	18662541
+CDC14B	SETD8	protein substrate	Homo sapiens (Human)	Ser-100 	In vitro and in vivo	20966048
+CDC14B	p53	protein substrate	Homo sapiens (Human)	Ser-315	In vitro and in vivo	10644693
+CDC14B	sirtuin-2	protein substrate	Homo sapiens (Human)	Ser-368	In vivo	17488717, 12697818
+CDC14B	SKP2	protein substrate	Homo sapiens (Human)	Ser-64	In vitro and in vivo	18239684
+CDC14B	ERK3	protein substrate	Homo sapiens (Human)	Thr-698	In vivo	20236090
+CDC25A	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	15672448
+CDC25A	RAF1	protein substrate	N/A	N/A	In vivo	10373531
+CDC25A	CUX1	protein substrate	N/A	N/A	In vivo	9707427
+CDC25A	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11912208
+CDC25A	ERK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	15672448
+CDC25A	CDK4	protein substrate	Homo sapiens (Human)	N/A 	In vitro	10454565, 11585757
+CDC25A	CDK1	protein substrate	Homo sapiens (Human)	Thr-14, Tyr-15	In vitro and in vivo	1825803, 1913817, 1828290, 8617791
+CDC25A	CDK2	protein substrate	Homo sapiens (Human)	Thr-14, Tyr-15	In vitro and in vivo	8617791, 1396589, 10454565
+CDC25B	CDK1	protein substrate	Homo sapiens (Human)	Thr-14, Tyr-15	In vitro	8440392, 8617791
+CDC25C	CDK1	protein substrate	Homo sapiens (Human)	Tyr-15 [Thr-14, Tyr-15]	In vitro	1312880
+CTDSP-like 2	POLR2A	protein substrate	Mus musculus (Mouse)	Multiple Ser-2 and Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro	17487459
+Cytosolic 5'-nucleotidase 1A	5'-AMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-CMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-dAMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-dCMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-dGMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-dIMP	non-protein substrate	N/A	N/A	In vitro	11133996
+Cytosolic 5'-nucleotidase 1A	5'-dUMP	non-protein substrate	N/A	N/A	In vitro	11133996
+Cytosolic 5'-nucleotidase 1A	5'-GMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-IMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-TMP	non-protein substrate	N/A	N/A	In vitro	11133996, 9636049
+Cytosolic 5'-nucleotidase 1A	5'-UMP	non-protein substrate	N/A	N/A	In vitro	11133996
+Cytosolic 5'-nucleotidase 2	5'-dAMP	non-protein substrate	N/A	N/A	In vitro	12907246
+Cytosolic 5'-nucleotidase 2	5'-dGMP	non-protein substrate	N/A	N/A	In vitro	12907246, 2848805
+Cytosolic 5'-nucleotidase 2	5'-dIMP	non-protein substrate	N/A	N/A	In vitro	2848805
+Cytosolic 5'-nucleotidase 2	5'-dTMP	non-protein substrate	N/A	N/A	In vitro	12907246
+Cytosolic 5'-nucleotidase 2	5'-dUMP	non-protein substrate	N/A	N/A	In vitro	12907246
+Cytosolic 5'-nucleotidase 2	5'-GMP	non-protein substrate	N/A	N/A	In vitro	2848805
+Cytosolic 5'-nucleotidase 2	5'-IMP	non-protein substrate	N/A	N/A	In vitro	12907246, 2848805
+Cytosolic 5'-nucleotidase 2	5'-UMP	non-protein substrate	N/A	N/A	In vitro	2848805
+Cytosolic 5'-nucleotidase 3	5'-CMP	non-protein substrate	N/A	N/A	In vitro	9428647
+Cytosolic 5'-nucleotidase 3	5'-dCMP	non-protein substrate	N/A	N/A	In vitro	9428647
+Cytosolic 5'-nucleotidase 3	5'-dTMP	non-protein substrate	N/A	N/A	In vitro	9428647
+Cytosolic 5'-nucleotidase 3	5'-dUMP	non-protein substrate	N/A	N/A	In vitro	9428647
+Cytosolic 5'-nucleotidase 3	5'-UMP	non-protein substrate	N/A	N/A	In vitro	9428647
+Deoxy-5'-nucleotidase 1	2'-UMP	non-protein substrate	N/A	N/A	In vitro	2157703
+Deoxy-5'-nucleotidase 1	3'-dUMP	non-protein substrate	N/A	N/A	In vitro	2157703
+Deoxy-5'-nucleotidase 1	3'-UMP	non-protein substrate	N/A	N/A	In vitro	2157703
+Deoxy-5'-nucleotidase 1	5'-dAMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703
+Deoxy-5'-nucleotidase 1	5'-dGMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703, 12907246
+Deoxy-5'-nucleotidase 1	5'-dIMP	non-protein substrate	N/A	N/A	In vitro	2157703
+Deoxy-5'-nucleotidase 1	5'-dTMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703, 12907246
+Deoxy-5'-nucleotidase 1	5'-dUMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703, 12907246
+Deoxy-5'-nucleotidase 1	5'-GMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703
+Deoxy-5'-nucleotidase 1	5'-IMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703
+Deoxy-5'-nucleotidase 1	5'-UMP	non-protein substrate	N/A	N/A	In vitro	10681516, 2157703
+Deoxy-5'-nucleotidase 2	2'-UMP	non-protein substrate	N/A	N/A	In vitro	10899995
+Deoxy-5'-nucleotidase 2	3'-dTMP	non-protein substrate	N/A	N/A	In vitro	10899995
+Deoxy-5'-nucleotidase 2	3'-UMP	non-protein substrate	N/A	N/A	In vitro	10899995
+Deoxy-5'-nucleotidase 2	5'-dTMP	non-protein substrate	N/A	N/A	In vitro	10899995, 12907246
+Deoxy-5'-nucleotidase 2	5'-dUMP	non-protein substrate	N/A	N/A	In vitro	10899995, 12907246
+Deoxy-5'-nucleotidase 2	5'-UMP	non-protein substrate	N/A	N/A	In vitro	10899995
+DPPL1	dioctanoyl Diacylglycerol pyrophosphate	non-protein substrate	N/A	N/A	In vitro	17590538
+DPPL1	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	17590538
+DPPL1	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	17590538
+DPPL2	dioctanoyl Diacylglycerol pyrophosphate	non-protein substrate	N/A	N/A	In vitro	17590538
+DPPL2	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	17590538
+DPPL2	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	17590538
+DULLARD	ALK3	protein substrate	Xenopus laevis (African clawed frog)	N/A	In vitro and in vivo	17141153
+DULLARD	Lipin 1	protein substrate	Mus musculus (Mouse)	Ser-106	In vivo	17420445
+SKRP1	JNK2	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	11959861
+JSP-1	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vitro	11733513
+JSP-1	JNK1	protein substrate	N/A	N/A	In vitro and in vivo	11346645, 12204117
+JSP-1	MAP kinase p38alpha	protein substrate	N/A	N/A	In vitro and in vivo	11346645
+JSP-1	MBP	protein substrate	N/A	N/A	In vitro	12204117
+JSP-1	STAT3	protein substrate	Mus musculus (Mouse)	N/A	In vivo	16636663
+JSP-1	ERalpha	protein substrate	Homo sapiens (Human)	Ser-118	In vitro and in vivo	17384676
+DUPD1	ERK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	21199871
+DUPD1	ERK2	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	21199871
+DUPD1	MAP kinase p38alpha	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro and in vivo	21199871
+ENOPH1	HK-MTPenyl-1-P	non-protein substrate	N/A	N/A	In vitro	15843022
+Eya1	POLR2A	protein substrate	N/A	N/A	In vitro	14628042
+Eya1	gamma-H2AX	protein substrate	Homo sapiens (Human)	Tyr-143 	In vitro and in vivo	19351884, 19234442
+Eya3	POLR2A	protein substrate	N/A	N/A	In vitro	14628042
+Eya3	gamma-H2AX	protein substrate	Homo sapiens (Human)	Tyr-143 	In vitro and in vivo	19351884, 19234442
+FBPase 1	D-fructose 1,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro	8387495, 10222032
+FBPase 2	D-fructose 1,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro	16213487
+FCP1	POLR2A	protein substrate	Bos taurus (Bovine)	Multiple Ser-2 and Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro	12351650
+FIG4	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	17556371
+FIG4	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro and in vivo	17556371
+FIG4	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	17556371
+G6Pase	alpha-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	N/A	UniProt
+G6Pase	beta-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	N/A	UniProt
+G6Pase2	alpha-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	14722102
+G6Pase2	beta-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	14722102
+G6Pase3	alpha-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	12965222
+G6Pase3	beta-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	12965222
+HD-PTP	FAK	protein substrate	Homo sapiens (Human)	N/A	In vivo	17959146
+HD-PTP	SRC	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21724833
+HD-PTP	E-cadherin	protein substrate	Homo sapiens (Human)	N/A	In vitro	21724833
+HD-PTP	beta-catenin	protein substrate	Homo sapiens (Human)	N/A	In vitro	21724833
+HePTP	ERK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10702794, 10206983
+HePTP	MAP kinase p38alpha	protein substrate	N/A	Tyr-182	In vitro and in vivo	10206983, 19047375
+HePTP	ERK2	protein substrate	Homo sapiens (Human)	Tyr-187 	In vitro and in vivo	10702794, 10206983, 16226275
+hVH3	ERK1	protein substrate	Homo sapiens (Human)	N/A	In vivo	19741200
+hVH3	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vivo	19741200
+hVH5	JNK1	protein substrate	N/A	N/A	In vitro	8910287, 10915787
+hVH5	MAP kinase p38alpha	protein substrate	N/A	N/A	In vitro	8910287, 10915787
+IAP	lipopolysaccharide	non-protein substrate	N/A	N/A	In vitro and in vivo	9327750, 12413606
+IAP	5'-phosphopolynucleotide	non-protein substrate	N/A	N/A	In vitro	http://cshprotocols.cshlp.org/content/2006/1/pdb.prot3863.full
+IAP	CD36	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	21900644
+IAP	Histone H2A	protein substrate	Homo sapiens (Human)	N/A	In vitro	6167574
+IMP 1	adenosine 2'-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	glycerol 2-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	alpha-D-glucose 1-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	beta-D-glucose 1-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	D-fructose 1-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	alpha-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	beta-D-glucose 6-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(1)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(2)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(3)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(4)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(5)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(6)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	Ins(1,4)P2	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	scyllo-inositol 1,3-bisphosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	scyllo-inositol 1,4-bisphosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 1	scyllo-inositol monophosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	adenosine 2'-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	glycerol 2-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	alpha-D-glucose 1-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	beta-D-glucose 1-phosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(1)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(2)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(3)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(4)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(5)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(6)P1	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	Ins(1,4)P2	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 2	scyllo-inositol 1,4-bisphosphate	non-protein substrate	N/A	N/A	In vitro	17068342
+IMP 3	myo-inositol phosphate	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5B	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5B	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5B	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5B	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4A	Ins(1,3,4)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4A	Ins(3,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4A	PtdIns(3,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4B	Ins(1,3,4)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4B	Ins(1,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4B	Ins(3,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP4B	PtdIns(3,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5A	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5A	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5E	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5E	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5E	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	10764818
+INPP5E	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	10764818
+INPP5J	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	In vitro	UniProt
+INPP5J	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+INPP5J	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	UniProt
+INPP5K	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	In vitro	10753883
+INPP5K	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	In vitro	10753883
+INPP5K	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	10753883
+INPP5K	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	10753883
+IPPase	Ins(1,3,4)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+IPPase	Ins(1,4)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+KAP	CDK2	protein substrate	Homo sapiens (Human)	Thr-160	In vitro and in vivo	7569954, 11463386, 15530371
+Laforin	amylopectin 	non-protein substrate	N/A	N/A	In vitro	18040046
+Laforin	glycogen 	non-protein substrate	N/A	N/A	In vitro	18040046
+Laforin	HIRIP5	protein substrate	N/A	N/A	In vitro	12915448
+Laforin	GSK-3 beta	protein substrate	Mus musculus (Mouse)	Ser-9	In vitro and in vivo	16959610
+LAR	beta-catenin	protein substrate	Homo sapiens (Human)	N/A	In vitro	10187801
+LAR	INSR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11158333, 1321126, 7852302, 8732688, 8995282
+LAR	LAR	protein substrate	Homo sapiens (Human)	N/A	In vivo	11158333
+LAR	MET	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	16415345
+Lipin 1	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+Lipin 2	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+Lipin 3	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+LMW-DSP20	JNK1	protein substrate	N/A	N/A	In vitro and in vivo	16720344
+LMW-PTP	flavin mononucleotide	non-protein substrate	N/A	N/A	In vitro	1336375
+LMW-PTP	AE1	protein substrate	N/A	N/A	In vitro	2418829
+LMW-PTP	ALBP	protein substrate	Mus musculus (Mouse)	N/A	In vitro	1304913
+LMW-PTP	beta-catenin	protein substrate	Mus musculus (Mouse)	N/A	In vivo	12438242, 16287083
+LMW-PTP	CD32	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17537991
+LMW-PTP	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vitro	9784386, 2787757, 7532092
+LMW-PTP	FAK	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	12055185
+LMW-PTP	INSR	protein substrate	Mus musculus (Mouse)	N/A	In vivo	17353188, 9299573
+LMW-PTP	LAT	protein substrate	Homo sapiens (Human)	N/A	In vitro	17537991
+LMW-PTP	LMW-PTP	protein substrate	Bos taurus (Bovine)	N/A	In vitro	8576112, 16890200
+LMW-PTP	STAT5A	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	14637146
+LMW-PTP	VEGFR-2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10608891
+LMW-PTP	PKB	protein substrate	Mus musculus (Mouse)	Ser-473	In vivo	17353188
+LMW-PTP	ZAP70	protein substrate	Homo sapiens (Human)	Tyr-292	In vitro	11976341
+LMW-PTP	SRC	protein substrate	Mus musculus (Mouse)	Tyr-424, Tyr-535 	In vitro and in vivo	19088431
+LMW-PTP	PDGFRB	protein substrate	Homo sapiens (Human)	Tyr-857	In vitro and in vivo	12149261
+LPPR2	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+LPPR3	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+LPPR4	lysophosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+LPPR4	phosphatidic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+LYP	TCRZ	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	16461343
+LYP	LCK	protein substrate	Homo sapiens (Human)	Tyr-394	In vitro and in vivo	16461343
+LYP	ZAP70	protein substrate	Homo sapiens (Human)	Tyr-493	In vitro and in vivo	16461343
+MDP-1	D-arabinose 5-phosphate	non-protein substrate	N/A	N/A	In vitro	16670083
+MDP-1	D-ribose 5-phosphate	non-protein substrate	N/A	N/A	In vitro	16670083
+MDP-1	D-fructose 6-phosphate	non-protein substrate	N/A	N/A	In vitro	16670083
+MDP-1	fructoselysine 6-phosphate	non-protein substrate	N/A	N/A	In vitro	16670083
+MINPP1	2,3-bisphospho-D-glycerate	non-protein substrate	N/A	N/A	In vitro and in vivo	18413611
+MINPP1	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+MINPP1	InsP6	non-protein substrate	N/A	N/A	N/A	UniProt
+MKP-1	JNK2	protein substrate	N/A	N/A	In vivo	8626452
+MKP-1	ERK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	20858750, 14695202, 12676937
+MKP-1	JNK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9202001
+MKP-1	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19741200, 9202001
+MKP-1	ERK2	protein substrate	N/A	Thr-185, Tyr-187 	In vitro and in vivo	8221888, 7939666
+MKP-2	JNK2	protein substrate	N/A	N/A	In vivo	8626452
+MKP-2	ERK2	protein substrate	Rattus norvegicus (Rat)	Thr-183, Tyr-185 	In vitro and in vivo	7535768, 8626452
+MKP-2	ERK1	protein substrate	Homo sapiens (Human)	Thr-202, Tyr-204 	In vitro	7535768
+MKP-3	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	8670865
+MKP-4	ERK1	protein substrate	N/A	N/A	In vivo	11988087, 9030581, 18296638
+MKP-4	ERK2	protein substrate	N/A	N/A	In vitro and in vivo	11988087, 9030581, 18296638
+MKP-4	JNK1	protein substrate	N/A	N/A	In vivo	18296638
+MKP-4	JNK2	protein substrate	N/A	N/A	In vivo	18296638
+MKP-4	MAP kinase p38alpha	protein substrate	N/A	N/A	In vivo	11988087, 9030581, 18296638
+MKP-5	JNK1	protein substrate	N/A	N/A	In vitro and in vivo	10391943, 10597297
+MKP-5	JNK2	protein substrate	N/A	N/A	In vivo	10597297
+MKP-5	MAP kinase p38alpha	protein substrate	N/A	N/A	In vitro and in vivo	10391943, 10597297
+MKP-6	ERK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11123293
+MKP-6	JNK2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11123293
+MKP-6	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro	11123293
+MKP-7	JNK2	protein substrate	Mus musculus (Mouse)	N/A	In vivo	11564882
+MKP-7	JNK3	protein substrate	N/A	N/A	In vivo	15888437
+MKP-X	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9788880
+MOSP	ERK1	protein substrate	N/A	N/A	In vitro	15147733
+MOSP	MBP	protein substrate	N/A	N/A	In vitro	15281913
+MTM1	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro and in vivo	10900271, 11733541, 12646134
+MTM1	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	12646134
+MTM1	Ins(1,3)P2	non-protein substrate	N/A	N/A	In vitro	11733541
+MTMR1	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	12217958, 11733541
+MTMR1	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	16828287
+MTMR14	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro and ex vivo	17008356
+MTMR14	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro and ex vivo	17008356
+MTMR2	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	12045210, 12668758, 11733541
+MTMR2	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	12045210, 12668758
+MTMR2	Ins(1,3)P2	non-protein substrate	N/A	N/A	In vitro	11733541
+MTMR3	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro and in vivo	11676921, 11733541
+MTMR3	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro and in vivo	11676921
+MTMR4	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	11302699
+MTMR4	SMAD3	protein substrate	Homo sapiens (Human)	N/A	In vivo	20061380
+MTMR6	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	11733541, 12646134
+MTMR6	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	12646134
+MTMR7	Ins(1,3)P2	non-protein substrate	N/A	N/A	In vitro	12890864
+MTMR7	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	12890864
+MTMR7	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	12925573
+Neu5Ac-9-Pase	6-phosphogluconate	non-protein substrate	N/A	N/A	In vitro	16237198
+Neu5Ac-9-Pase	D-fructose 1,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro	16237198
+Neu5Ac-9-Pase	N-acetyl-D-glucosamine 6-phosphate	non-protein substrate	N/A	N/A	In vitro	16237198
+Neu5Ac-9-Pase	N-acylneuraminate 9-phosphate	non-protein substrate	N/A	N/A	In vitro	16237198
+OCRL-1	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+OCRL-1	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+OCRL-1	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+OCRL-1	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+PAC-1	ERK2	protein substrate	Homo sapiens (Human)	N/A	In vivo	8626452
+PAC-1	MAP kinase p38alpha	protein substrate	N/A	N/A	In vivo	8626452
+PAP2a	ceramide 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 12909631
+PAP2a	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 12909631, 9607309
+PAP2a	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 12909631, 9607309
+PAP2a	sphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 12909631
+PAP2b	ceramide 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923
+PAP2b	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 9607309
+PAP2b	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923, 9607309
+PAP2b	sphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349, 9305923
+PAP2c	ceramide 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349
+PAP2c	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9607309
+PAP2c	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	9705349, 9607309
+PAP2c	sphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	9705349
+PDP1	SMAD1	protein substrate	Homo sapiens (Human)	N/A	In vivo	16510868
+PDP1	PDHA2	protein substrate	Homo sapiens (Human)	Ser-230, Ser-291, Ser-298 	In vitro	16436377
+PDP1	PDHA1	protein substrate	Homo sapiens (Human)	Ser-232, Ser-293, Ser-300 	In vitro	7782287, 16545080, 14644048, 16436377
+PDP2	SMAD1	protein substrate	Homo sapiens (Human)	N/A	In vivo	16510868
+PDP2	PDHA2	protein substrate	Homo sapiens (Human)	Ser-230, Ser-291, Ser-298 	In vitro	16436377
+PDP2	PDHA1	protein substrate	Homo sapiens (Human)	Ser-232, Ser-293, Ser-300 	In vitro	14644048, 16436377
+Pez	beta-catenin	protein substrate	Homo sapiens (Human)	N/A	In vitro	12808048
+PFK/FBPase 1	beta-D-fructose 2,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	7574501, 7549867
+PFK/FBPase 2	beta-D-fructose 2,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	7574501, 7549867
+PFK/FBPase 3	beta-D-fructose 2,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	7574501, 7549867
+PFK/FBPase 4	beta-D-fructose 2,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	7574501, 7549867
+PGAM-4	2,3-bisphospho-D-glycerate	non-protein substrate	N/A	N/A	N/A	UniProt
+PGAM5	ASK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19590015
+PGAM-B	2,3-bisphospho-D-glycerate	non-protein substrate	N/A	N/A	N/A	UniProt
+PGAM-M	2,3-bisphospho-D-glycerate	non-protein substrate	N/A	N/A	N/A	UniProt
+PGP	2-phosphoglycolic acid	non-protein substrate	N/A	N/A	N/A	UniProt
+PHLPP1	PKB gamma	protein substrate	Homo sapiens (Human)	Ser-472 	In vitro and in vivo	17386267, 19261608
+PHLPP1	PKB	protein substrate	Homo sapiens (Human)	Ser-473	In vitro and in vivo	15808505
+PHLPP1	PKB beta	protein substrate	Homo sapiens (Human)	Ser-474 	In vitro and in vivo	17386267, 19261608
+PHLPP1	PKC-alpha	protein substrate	Homo sapiens (Human)	Ser-657	In vitro and in vivo	18162466
+PHLPP1	PKC-beta	protein substrate	Homo sapiens (Human)	Ser-660 in Isoform Beta-II 	In vitro and in vivo	18162466
+PHLPP1	Mst1	protein substrate	Homo sapiens (Human)	Thr-387	In vitro and in vivo	20513427
+PHLPP2	PKB gamma	protein substrate	Homo sapiens (Human)	Ser-472 	In vitro and in vivo	17386267, 19261608
+PHLPP2	PKB	protein substrate	Homo sapiens (Human)	Ser-473	In vitro and in vivo	17386267, 19261608
+PHLPP2	PKB beta	protein substrate	Homo sapiens (Human)	Ser-474 	In vitro and in vivo	17386267, 19261608
+PHLPP2	PKC-alpha	protein substrate	Homo sapiens (Human)	Ser-657	In vitro and in vivo	18162466
+PHLPP2	PKC-beta	protein substrate	Homo sapiens (Human)	Ser-660 in Isoform Beta-II 	In vitro and in vivo	18162466
+PHLPP2	Mst1	protein substrate	Homo sapiens (Human)	Thr-387	In vitro and in vivo	20513427
+PHOSPHO1	O-phosphoethanolamine	non-protein substrate	N/A	N/A	In vitro	15175005
+PHOSPHO1	phosphocholine	non-protein substrate	N/A	N/A	In vitro	15175005
+PHOSPHO2	pyridoxal 5'-phosphate	non-protein substrate	N/A	N/A	In vitro	16054448
+PHPT1	GNB1	protein substrate	Bos taurus (Bovine)	His-266	In vitro and in vivo	16039992
+PHPT1	KCa3.1	protein substrate	Homo sapiens (Human)	His-358	In vitro and in vivo	18796614
+PHPT1	ACL	protein substrate	Oryctolagus cuniculus (Rabbit)	His-760	In vitro	12788074
+PHPT1	Histone H4	protein substrate	Homo sapiens (Human)	N/A	In vitro	21679093
+PIR1	5'-phosphopolynucleotide	non-protein substrate	N/A	N/A	In vitro	10347225, 9685386
+PIR1	MBP	protein substrate	N/A	N/A	In vitro	10347225
+PLAP	lipopolysaccharide	non-protein substrate	N/A	N/A	In vitro	12462566
+PLAP	GYS1	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	6243946
+PLPP	Cofilin-1	protein substrate	Xenopus tropicalis (Western clawed frog) (Silurana tropicalis)	Ser-3	In vitro and in vivo	15580268
+PP1alpha	PP1alpha	protein substrate	Homo sapiens (Human)	Thr-320	In vitro	19396163
+PLPP	pyridoxal 5'-phosphate	non-protein substrate	N/A	N/A	In vitro	14522954
+PLPP	pyridoxamine 5'-phosphate	non-protein substrate	N/A	N/A	In vitro	14522954
+PLPP	pyridoxine 5'-phosphate	non-protein substrate	N/A	N/A	In vitro	14522954, 8132548
+PNKP	3'-phosphopolynucleotide	non-protein substrate	N/A	N/A	In vitro	10446192
+PP1alpha	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PP1alpha	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP1alpha	C-Nap1	protein substrate	Homo sapiens (Human)	N/A	In vitro	10880350
+PP1alpha	eIF-2alpha	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro and in vivo	9694816, 12941928, 21622569, 9023344
+PP1alpha	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP1alpha	Ikaros	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	19282287
+PP1alpha	MBP	protein substrate	Gallus gallus (Chicken)	N/A	In vitro	8617739, 16585947
+PP1alpha	N-CoR	protein substrate	N/A	N/A	In vivo	12410313
+PP1alpha	PKC-alpha	protein substrate	Bos taurus (Bovine)	N/A	In vitro	9675027, 1575696
+PP1alpha	PKD	protein substrate	Homo sapiens (Human)	N/A	In vitro	9507012
+PP1alpha	PKR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	12138106
+PP1alpha	POLD3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18826257
+PP1alpha	RB	protein substrate	Homo sapiens (Human)	N/A	In vitro	8380224, 8380637
+PP1alpha	RYR-1	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	9922179
+PP1alpha	SMO	protein substrate	Drosophila melanogaster (Fruit fly)	N/A	In vitro	21730325
+PP1alpha	Caspase-2	protein substrate	Xenopus laevis (African clawed frog)	Ser-135	In vitro and in vivo	19531356
+PP1alpha	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro	12926989
+PP1alpha	CAD	protein substrate	Mesocricetus auratus (Golden hamster)	Ser-1406, Ser-1859	In vitro	4092695
+PP1alpha	PAR-3	protein substrate	Mus musculus (Mouse)	Ser-144, Ser-824	In vitro	18641122
+PP1alpha	p53	protein substrate	Homo sapiens (Human)	Ser-15, Ser-37	In vitro and in vivo	15178317, 16501611
+PP1alpha	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633
+PP1alpha	CDC25C	protein substrate	Homo sapiens (Human)	Ser-216	In vitro	14592972, 16467385
+PP1alpha	TnI	protein substrate	Rattus norvegicus (Rat)	Ser-23, Ser-24	In vitro	16585947
+PP1alpha	HePTP	protein substrate	Homo sapiens (Human)	Ser-44 	In vitro	14613483
+PP1alpha	IRBIT	protein substrate	Mus musculus (Mouse)	Ser-68	In vitro and in vivo	17635105
+PP1alpha	FAK	protein substrate	Gallus gallus (Chicken)	Ser-722	In vitro	15975092, 11513739
+PP1alpha	AXIN1	protein substrate	Homo sapiens (Human)	Ser-75, Ser-77, Ser-217, Ser-469 	In vivo	17318175
+PP1alpha	BRCA1	protein substrate	Homo sapiens (Human)	Ser-988, Ser-1423, Ser-1524	In vitro and in vivo	12438214, 17603999
+PP1alpha	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP1alpha	Caspase-9	protein substrate	Homo sapiens (Human)	Thr-125	In vitro and in vivo	16888006
+PP1alpha	Mst2	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	21199877
+PP1alpha	Mst1	protein substrate	Homo sapiens (Human)	Thr-183	In vitro	21199877
+PP1alpha	CDK9	protein substrate	Homo sapiens (Human)	Ser-175, Thr-186	In vitro	21533037, 18483222
+PP1alpha	TnT	protein substrate	Rattus norvegicus (Rat)	Thr-204, Ser-208, Thr-294 	In vitro	16585947
+PP1alpha	CaMK-II subunit alpha	protein substrate	Mus musculus (Mouse)	Thr-286	In vitro	9109540
+PP1alpha	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	Thr-287	In vitro	18338982
+PP1alpha	Aurora A	protein substrate	Homo sapiens (Human)	Thr-288	In vitro	11039908
+PP1alpha	eNOS	protein substrate	Homo sapiens (Human)	Thr-495	In vivo	19036824
+PP1alpha	PKC-beta	protein substrate	Rattus norvegicus (Rat)	Thr-500, Thr-641, Ser-660 in Isoform Beta-II (PRKCB2) 	In vitro	8749392, 7961910
+PP1alpha	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro	11959144
+PP1alpha	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	15147202
+PP1beta	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PP1beta	RB	protein substrate	Homo sapiens (Human)	N/A	In vitro	8380224, 8380637
+PP1beta	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP1beta	C-Nap1	protein substrate	Homo sapiens (Human)	N/A	In vitro	10880350
+PP1beta	eIF-2alpha	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro and in vivo	9694816, 12941928, 21622569, 9023344
+PP1beta	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP1beta	Ikaros	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	19282287
+PP1beta	MBP	protein substrate	Gallus gallus (Chicken)	N/A	In vitro	8617739, 16585947
+PP1beta	N-CoR	protein substrate	N/A	N/A	In vivo	12410313
+PP1beta	PKC-alpha	protein substrate	Bos taurus (Bovine)	N/A	In vitro	9675027, 1575696
+PP1beta	PKD	protein substrate	Homo sapiens (Human)	N/A	In vitro	9507012
+PP1beta	POLD3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18826257
+PP1beta	RYR-1	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	9922179
+PP1beta	SMO	protein substrate	Drosophila melanogaster (Fruit fly)	N/A	In vitro	21730325
+PP1beta	Caspase-2	protein substrate	Xenopus laevis (African clawed frog)	Ser-135	In vitro and in vivo	19531356
+PP1beta	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro	12926989
+PP1beta	CAD	protein substrate	Mesocricetus auratus (Golden hamster)	Ser-1406, Ser-1859	In vitro	4092695
+PP1beta	p53	protein substrate	Homo sapiens (Human)	Ser-15, Ser-37	In vitro and in vivo	15178317, 16501611
+PP1beta	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633
+PP1beta	CDC25C	protein substrate	Homo sapiens (Human)	Ser-216	In vitro	14592972, 16467385
+PP1beta	TnI	protein substrate	Rattus norvegicus (Rat)	Ser-23, Ser-24	In vitro	16585947
+PP1beta	HePTP	protein substrate	Homo sapiens (Human)	Ser-44 	In vitro	14613483
+PP1beta	IRBIT	protein substrate	Mus musculus (Mouse)	Ser-68	In vitro and in vivo	17635105
+PP1beta	FAK	protein substrate	Gallus gallus (Chicken)	Ser-722	In vitro	15975092, 11513739
+PP1beta	AXIN1	protein substrate	Homo sapiens (Human)	Ser-75, Ser-77, Ser-217, Ser-469 	In vivo	17318175
+PP1beta	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP1beta	Mst2	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	21199877
+PP1beta	Mst1	protein substrate	Homo sapiens (Human)	Thr-183	In vitro	21199877
+PP1beta	TnT	protein substrate	Rattus norvegicus (Rat)	Thr-204, Ser-208, Thr-294 	In vitro	16585947
+PP1beta	CaMK-II subunit alpha	protein substrate	Mus musculus (Mouse)	Thr-286	In vitro	9109540
+PP1beta	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	Thr-287	In vitro	18338982
+PP1beta	Aurora A	protein substrate	Homo sapiens (Human)	Thr-288	In vitro	11039908
+PP1beta	eNOS	protein substrate	Homo sapiens (Human)	Thr-495	In vivo	19036824
+PP1beta	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro	11959144
+PP1beta	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	15147202
+PP1gamma	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PP1gamma	RB	protein substrate	Homo sapiens (Human)	N/A	In vitro	8380224, 8380637
+PP1gamma	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP1gamma	C-Nap1	protein substrate	Homo sapiens (Human)	N/A	In vitro	10880350
+PP1gamma	eIF-2alpha	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro and in vivo	9694816, 12941928, 21622569, 9023344
+PP1gamma	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP1gamma	Ikaros	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	19282287
+PP1gamma	MBP	protein substrate	Gallus gallus (Chicken)	N/A	In vitro	8617739, 16585947
+PP1gamma	N-CoR	protein substrate	N/A	N/A	In vivo	12410313
+PP1gamma	PKC-alpha	protein substrate	Bos taurus (Bovine)	N/A	In vitro	9675027, 1575696, 8805373
+PP1gamma	PKD	protein substrate	Homo sapiens (Human)	N/A	In vitro	9507012
+PP1gamma	POLD3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18826257
+PP1gamma	RYR-1	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	9922179
+PP1gamma	SMO	protein substrate	Drosophila melanogaster (Fruit fly)	N/A	In vitro	21730325
+PP1gamma	Caspase-2	protein substrate	Xenopus laevis (African clawed frog)	Ser-135	In vitro and in vivo	19531356
+PP1gamma	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro	12926989
+PP1gamma	CAD	protein substrate	Mesocricetus auratus (Golden hamster)	Ser-1406, Ser-1859	In vitro	4092695
+PP1gamma	p53	protein substrate	Homo sapiens (Human)	Ser-15, Ser-37	In vitro and in vivo	15178317, 16501611
+PP1gamma	ATM	protein substrate	Homo sapiens (Human)	Ser-1981	In vitro	20188555
+PP1gamma	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633
+PP1gamma	CDC25C	protein substrate	Homo sapiens (Human)	Ser-216	In vitro	14592972, 16467385
+PP1gamma	TnI	protein substrate	Rattus norvegicus (Rat)	Ser-23, Ser-24	In vitro	16585947
+PP1gamma	HePTP	protein substrate	Homo sapiens (Human)	Ser-44 	In vitro	14613483
+PP1gamma	IRBIT	protein substrate	Mus musculus (Mouse)	Ser-68	In vitro and in vivo	17635105
+PP1gamma	FAK	protein substrate	Gallus gallus (Chicken)	Ser-722	In vitro	15975092, 11513739
+PP1gamma	AXIN1	protein substrate	Homo sapiens (Human)	Ser-75, Ser-77, Ser-217, Ser-469 	In vivo	17318175
+PP1gamma	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP1gamma	Mst2	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	21199877
+PP1gamma	Mst1	protein substrate	Homo sapiens (Human)	Thr-183	In vitro	21199877
+PP1gamma	TnT	protein substrate	Rattus norvegicus (Rat)	Thr-204, Ser-208, Thr-294 	In vitro	16585947
+PP1gamma	CaMK-II subunit alpha	protein substrate	Mus musculus (Mouse)	Thr-286	In vitro	9109540
+PP1gamma	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	Thr-287	In vitro	18338982
+PP1gamma	Aurora A	protein substrate	Homo sapiens (Human)	Thr-288	In vitro	11039908
+PP1gamma	Histone H3.1	protein substrate	Homo sapiens (Human)	Thr-4, Ser-11, Thr-12, Ser-29	In vitro and in vivo	21514157
+PP1gamma	eNOS	protein substrate	Homo sapiens (Human)	Thr-495	In vivo	19036824
+PP1gamma	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro	11959144
+PP1gamma	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	15147202
+PP2Aalpha	BMPR-II	protein substrate	Homo sapiens (Human)	N/A	In vitro	19339557
+PP2Aalpha	alpha-crystallin A chain	protein substrate	Homo sapiens (Human)	N/A	In vitro	11295434
+PP2Aalpha	AMPK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	8652652
+PP2Aalpha	AXIN1	protein substrate	Mus musculus (Mouse)	N/A	In vitro	10421629
+PP2Aalpha	BAX	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	16679323
+PP2Aalpha	CaMK IV	protein substrate	Homo sapiens (Human)	N/A	In vitro	8530476
+PP2Aalpha	CaMKI-alpha	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1320022
+PP2Aalpha	CaMKI-beta	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1320022
+PP2Aalpha	CaMK-II subunit beta	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	7798931
+PP2Aalpha	CDK1	protein substrate	Xenopus laevis (African clawed frog)	N/A	In vitro	1846321
+PP2Aalpha	CDK5 activator 1, p35	protein substrate	Mus musculus (Mouse)	N/A	In vitro	21482799
+PP2Aalpha	CDK9	protein substrate	Homo sapiens (Human)	N/A	In vitro	16048649
+PP2Aalpha	cGK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Aalpha	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP2Aalpha	CREB1	protein substrate	Homo sapiens (Human)	N/A	In vitro	8386317, 8065321
+PP2Aalpha	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP2Aalpha	HSP27	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	7510704
+PP2Aalpha	IKKA	protein substrate	Homo sapiens (Human)	N/A	In vitro	9252186
+PP2Aalpha	IKKB	protein substrate	Homo sapiens (Human)	N/A	In vivo	19607706
+PP2Aalpha	JNK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Aalpha	MAPKAP kinase 2	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	1327754
+PP2Aalpha	MBP	protein substrate	Sus scrofa (Pig)	N/A	In vitro	9644267, 10866685, 16895907
+PP2Aalpha	MEK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1716348
+PP2Aalpha	NFH	protein substrate	Mus musculus (Mouse)	N/A	In vitro	20031277
+PP2Aalpha	p107	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	18927618
+PP2Aalpha	p130cas	protein substrate	Mus musculus (Mouse)	N/A	In vitro	11593413
+PP2Aalpha	P70S6K1	protein substrate	Homo sapiens (Human)	N/A	In vitro	2826472, 11124802, 10200280
+PP2Aalpha	p90RSK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	7623830
+PP2Aalpha	p90RSK3	protein substrate	Homo sapiens (Human)	N/A	In vitro	7623830
+PP2Aalpha	Paxillin	protein substrate	Mus musculus (Mouse)	N/A	In vitro	10675325
+PP2Aalpha	PKC-lambda	protein substrate	Mus musculus (Mouse)	N/A	In vitro	15367694
+PP2Aalpha	PKC-alpha	protein substrate	N/A	N/A	In vitro	9675027
+PP2Aalpha	PKD	protein substrate	Homo sapiens (Human)	N/A	In vitro	9507012
+PP2Aalpha	PLK1	protein substrate	Homo sapiens (Human)	N/A	In vitro	9344838
+PP2Aalpha	PP2A B subunit isoform B56-alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro	10866685
+PP2Aalpha	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PP2Aalpha	SEK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Aalpha	SMAD1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19339557
+PP2Aalpha	SMAD3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19951945
+PP2Aalpha	SMO	protein substrate	Drosophila melanogaster (Fruit fly)	N/A	In vitro	21730325
+PP2Aalpha	SRC	protein substrate	N/A	N/A	In vitro	10322434
+PP2Aalpha	Tubulin	protein substrate	Bos taurus (Bovine)	N/A	In vitro	10464280
+PP2Aalpha	VASP	protein substrate	Homo sapiens (Human)	N/A	In vitro	7656973
+PP2Aalpha	Vimentin	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10359611
+PP2Aalpha	Histone H3.1	protein substrate	Homo sapiens (Human)	Ser-11 (Ser-10 in ref.)	In vitro	15880462
+PP2Aalpha	BAD	protein substrate	Mus musculus (Mouse)	Ser-112, Thr-117 	In vitro	12944463, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Aalpha	alpha-Syn	protein substrate	Homo sapiens (Human)	Ser-129	In vitro and in vivo	21562258
+PP2Aalpha	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro and in vivo	16310392
+PP2Aalpha	CAD	protein substrate	Mesocricetus auratus (Golden hamster)	Ser-1406, Ser-1859	In vitro	4092695
+PP2Aalpha	Caspase-3	protein substrate	Homo sapiens (Human)	Ser-150	In vitro	15569672
+PP2Aalpha	HD7	protein substrate	Homo sapiens (Human)	Ser-155, Ser-181, Ser-321, Ser-449 in isoform 3	In vitro and in vivo	18339811
+PP2Aalpha	TAU	protein substrate	Homo sapiens (Human)	Ser-198, Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 12435421, 1330687,  8982166, 10464280
+PP2Aalpha	ATM	protein substrate	Homo sapiens (Human)	Ser-1981	In vivo	15510216
+PP2Aalpha	SK1	protein substrate	Homo sapiens (Human)	Ser-225	In vitro	18852266
+PP2Aalpha	PACS1	protein substrate	Homo sapiens (Human)	Ser-278	In vitro	14633983
+PP2Aalpha	CHK1	protein substrate	Homo sapiens (Human)	Ser-317, Ser-345	In vitro and in vivo	17015476
+PP2Aalpha	Rhodopsin	protein substrate	Bos taurus (Bovine)	Ser-334, Ser-338, Ser-343 	In vitro	8617805
+PP2Aalpha	GM130	protein substrate	Rattus norvegicus (Rat)	Ser-37 	In vitro	10769027
+PP2Aalpha	p53	protein substrate	Homo sapiens (Human)	Ser-37, Ser-46, Thr-55	In vitro and in vivo	1848668, 17245430, 14712210
+PP2Aalpha	RACGAP1	protein substrate	Homo sapiens (Human)	Ser-387, Thr-588 	In vitro	18201571
+PP2Aalpha	Keratin-8	protein substrate	Homo sapiens (Human)	Ser-432 	In vivo	16554440
+PP2Aalpha	NF-kappa-B p65	protein substrate	Homo sapiens (Human)	Ser-536	In vitro	17188031
+PP2Aalpha	PAK1	protein substrate	Rattus norvegicus (Rat)	Ser-57, Ser-198 in ref. 	In vitro and in vivo	18586681, 10322434
+PP2Aalpha	c-Myc	protein substrate	Mus musculus (Mouse)	Ser-62	In vitro	15048125
+PP2Aalpha	Carma1	protein substrate	Homo sapiens (Human)	Ser-644 	In vitro and in vivo	21157432
+PP2Aalpha	IPP-1	protein substrate	Rattus norvegicus (Rat)	Ser-67	In vitro and in vivo	11278334
+PP2Aalpha	gp130	protein substrate	Homo sapiens (Human)	Ser-782	In vitro	15786731
+PP2Aalpha	BCL2	protein substrate	Homo sapiens (Human)	Ser-87	In vitro and in vivo	15225643, 9852076
+PP2Aalpha	TRAF2	protein substrate	N/A	Thr-117	In vivo	17188031
+PP2Aalpha	CDK2	protein substrate	Homo sapiens (Human)	Thr-160	In vitro	7569954
+PP2Aalpha	Mst2	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	21199877
+PP2Aalpha	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	12548554, 12297294
+PP2Aalpha	Mst1	protein substrate	Homo sapiens (Human)	Thr-183	In vitro	21199877
+PP2Aalpha	ERK2	protein substrate	Rattus norvegicus (Rat)	Thr-183 	In vitro and in vivo	7780739, 16456541, 2154696
+PP2Aalpha	TAK1	protein substrate	Homo sapiens (Human)	Thr-187	In vitro	17079228
+PP2Aalpha	PKA C-alpha	protein substrate	Mus musculus (Mouse)	Thr-198 	In vitro	8550570
+PP2Aalpha	MDM2	protein substrate	Mus musculus (Mouse)	Thr-216	In vitro and in vivo	11983168
+PP2Aalpha	ELF1	protein substrate	Homo sapiens (Human)	Thr-231	In vivo	18714041
+PP2Aalpha	CaMK-II subunit alpha	protein substrate	Mus musculus (Mouse)	Thr-286	In vitro	9109540, 7798931
+PP2Aalpha	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	Thr-287	In vitro	18338982
+PP2Aalpha	PKB gamma	protein substrate	Homo sapiens (Human)	Thr-305, Ser-472 	In vitro and in vivo	18160256
+PP2Aalpha	PKB	protein substrate	Mus musculus (Mouse)	Thr-308, Ser-473	In vitro and in vivo	11087733, 11812651, 15367694
+PP2Aalpha	PKC-beta	protein substrate	Rattus norvegicus (Rat)	Thr-500, Ser-660 in Isoform Beta-II 	In vitro and in vivo	8749392, 15880462
+PP2Aalpha	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro and in vivo	11959144
+PP2Aalpha	EF2	protein substrate	Mus musculus (Mouse)	Thr-57, Thr-59 	In vitro	8386634, 2555220, 2176079
+PP2Aalpha	CHK2	protein substrate	Homo sapiens (Human)	Thr-68	In vitro and in vivo	15380617, 16596250
+PP2Aalpha	DARPP32	protein substrate	Mus musculus (Mouse)	Thr-75 	In vitro	12065642, 10217279
+PP2Aalpha	Integrin beta-1	protein substrate	Homo sapiens (Human)	Thr-788, Thr-789 	In vitro	14660602, 10896784
+PP2Aalpha	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	15147202
+PP2Abeta	BMPR-II	protein substrate	Homo sapiens (Human)	N/A	In vitro	19339557
+PP2Abeta	alpha-crystallin A chain	protein substrate	Homo sapiens (Human)	N/A	In vitro	11295434
+PP2Abeta	AMPK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	8652652
+PP2Abeta	AXIN1	protein substrate	Mus musculus (Mouse)	N/A	In vitro	10421629
+PP2Abeta	BAX	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	16679323
+PP2Abeta	CaMK IV	protein substrate	Homo sapiens (Human)	N/A	In vitro	8530476
+PP2Abeta	CaMKI-alpha	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1320022
+PP2Abeta	CaMKI-beta	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1320022
+PP2Abeta	CaMK-II subunit beta	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	7798931
+PP2Abeta	CDK1	protein substrate	Xenopus laevis (African clawed frog)	N/A	In vitro	1846321
+PP2Abeta	CDK5 activator 1, p35	protein substrate	Mus musculus (Mouse)	N/A	In vitro	21482799
+PP2Abeta	CDK9	protein substrate	Homo sapiens (Human)	N/A	In vitro	16048649
+PP2Abeta	cGK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Abeta	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP2Abeta	CREB1	protein substrate	Homo sapiens (Human)	N/A	In vitro	8386317, 8065321
+PP2Abeta	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP2Abeta	HSP27	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	7510704
+PP2Abeta	IKKA	protein substrate	Homo sapiens (Human)	N/A	In vitro	9252186
+PP2Abeta	JNK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Abeta	MAPKAP kinase 2	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	1327754
+PP2Abeta	MBP	protein substrate	Sus scrofa (Pig)	N/A	In vitro	9644267, 10866685, 16895907
+PP2Abeta	MEK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	1716348
+PP2Abeta	NFH	protein substrate	Mus musculus (Mouse)	N/A	In vitro	20031277
+PP2Abeta	p107	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	18927618
+PP2Abeta	p130cas	protein substrate	Mus musculus (Mouse)	N/A	In vitro	11593413
+PP2Abeta	P70S6K1	protein substrate	Homo sapiens (Human)	N/A	In vitro	2826472, 11124802, 10200280
+PP2Abeta	p90RSK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	7623830
+PP2Abeta	p90RSK3	protein substrate	Homo sapiens (Human)	N/A	In vitro	7623830
+PP2Abeta	Paxillin	protein substrate	Mus musculus (Mouse)	N/A	In vitro	10675325
+PP2Abeta	PKC-lambda	protein substrate	Mus musculus (Mouse)	N/A	In vitro	15367694
+PP2Abeta	PKC-alpha	protein substrate	N/A	N/A	In vitro	9675027
+PP2Abeta	PKD	protein substrate	Homo sapiens (Human)	N/A	In vitro	9507012
+PP2Abeta	PLK1	protein substrate	Homo sapiens (Human)	N/A	In vitro	9344838
+PP2Abeta	PP2A B subunit isoform B56-alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro	10866685
+PP2Abeta	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PP2Abeta	SEK1	protein substrate	N/A	N/A	In vitro	10322434
+PP2Abeta	SMAD1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19339557
+PP2Abeta	SMAD3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19951945
+PP2Abeta	SMO	protein substrate	Drosophila melanogaster (Fruit fly)	N/A	In vitro	21730325
+PP2Abeta	SRC	protein substrate	N/A	N/A	In vitro	10322434
+PP2Abeta	Tubulin	protein substrate	Bos taurus (Bovine)	N/A	In vitro	10464280
+PP2Abeta	VASP	protein substrate	Homo sapiens (Human)	N/A	In vitro	7656973
+PP2Abeta	Vimentin	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10359611
+PP2Abeta	Histone H3.1	protein substrate	Homo sapiens (Human)	Ser-11 (Ser-10 in ref.)	In vitro	15880462
+PP2Abeta	BAD	protein substrate	Mus musculus (Mouse)	Ser-112, Thr-117 	In vitro	12944463, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Abeta	alpha-Syn	protein substrate	Homo sapiens (Human)	Ser-129	In vitro and in vivo	21562258
+PP2Abeta	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro and in vivo	16310392
+PP2Abeta	CAD	protein substrate	Mesocricetus auratus (Golden hamster)	Ser-1406, Ser-1859	In vitro	4092695
+PP2Abeta	Caspase-3	protein substrate	Homo sapiens (Human)	Ser-150	In vitro	15569672
+PP2Abeta	HD7	protein substrate	Homo sapiens (Human)	Ser-155, Ser-181, Ser-321, Ser-449 in isoform 3	In vitro and in vivo	18339811
+PP2Abeta	IKKB	protein substrate	Homo sapiens (Human)	Ser-181	In vitro and in vivo	17188031, 19607706
+PP2Abeta	TAU	protein substrate	Homo sapiens (Human)	Ser-198, Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 12435421, 1330687,  8982166, 10464280
+PP2Abeta	ATM	protein substrate	Homo sapiens (Human)	Ser-1981	In vivo	15510216
+PP2Abeta	SK1	protein substrate	Homo sapiens (Human)	Ser-225	In vitro	18852266
+PP2Abeta	PACS1	protein substrate	Homo sapiens (Human)	Ser-278	In vitro	14633983
+PP2Abeta	CHK1	protein substrate	Homo sapiens (Human)	Ser-317, Ser-345	In vitro and in vivo	17015476
+PP2Abeta	Rhodopsin	protein substrate	Bos taurus (Bovine)	Ser-334, Ser-338, Ser-343 	In vitro	8617805
+PP2Abeta	GM130	protein substrate	Rattus norvegicus (Rat)	Ser-37 	In vitro	10769027
+PP2Abeta	p53	protein substrate	Homo sapiens (Human)	Ser-37, Ser-46, Thr-55	In vitro and in vivo	1848668, 17245430, 14712210
+PP2Abeta	RACGAP1	protein substrate	Homo sapiens (Human)	Ser-387, Thr-588 	In vitro	18201571
+PP2Abeta	Keratin-8	protein substrate	Homo sapiens (Human)	Ser-432 	In vivo	16554440
+PP2Abeta	PAK1	protein substrate	Rattus norvegicus (Rat)	Ser-57, Ser-198 in ref. 	In vitro and in vivo	18586681, 10322434
+PP2Abeta	c-Myc	protein substrate	Mus musculus (Mouse)	Ser-62	In vitro	15048125
+PP2Abeta	Carma1	protein substrate	Homo sapiens (Human)	Ser-644 	In vitro and in vivo	21157432
+PP2Abeta	IPP-1	protein substrate	Rattus norvegicus (Rat)	Ser-67	In vitro and in vivo	11278334
+PP2Abeta	gp130	protein substrate	Homo sapiens (Human)	Ser-782	In vitro	15786731
+PP2Abeta	BCL2	protein substrate	Homo sapiens (Human)	Ser-87	In vitro and in vivo	15225643, 9852076
+PP2Abeta	TRAF2	protein substrate	N/A	Thr-117	In vivo	17188031
+PP2Abeta	CDK2	protein substrate	Homo sapiens (Human)	Thr-160	In vitro	7569954
+PP2Abeta	Mst2	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	21199877
+PP2Abeta	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	12548554, 12297294
+PP2Abeta	Mst1	protein substrate	Homo sapiens (Human)	Thr-183	In vitro	21199877
+PP2Abeta	ERK2	protein substrate	Rattus norvegicus (Rat)	Thr-183 	In vitro and in vivo	7780739, 16456541, 2154696
+PP2Abeta	TAK1	protein substrate	Homo sapiens (Human)	Thr-187	In vitro	17079228
+PP2Abeta	PKA C-alpha	protein substrate	Mus musculus (Mouse)	Thr-198 	In vitro	8550570
+PP2Abeta	MDM2	protein substrate	Mus musculus (Mouse)	Thr-216	In vitro and in vivo	11983168
+PP2Abeta	ELF1	protein substrate	Homo sapiens (Human)	Thr-231	In vivo	18714041
+PP2Abeta	CaMK-II subunit alpha	protein substrate	Mus musculus (Mouse)	Thr-286	In vitro	9109540, 7798931
+PP2Abeta	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	Thr-287	In vitro	18338982
+PP2Abeta	PKB gamma	protein substrate	Homo sapiens (Human)	Thr-305, Ser-472 	In vitro and in vivo	18160256
+PP2Abeta	PKB	protein substrate	Mus musculus (Mouse)	Thr-308, Ser-473	In vitro and in vivo	11087733, 11812651, 15367694
+PP2Abeta	PKC-beta	protein substrate	Rattus norvegicus (Rat)	Thr-500, Ser-660 in Isoform Beta-II 	In vitro and in vivo	8749392, 15880462
+PP2Abeta	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro and in vivo	11959144
+PP2Abeta	EF2	protein substrate	Mus musculus (Mouse)	Thr-57, Thr-59 	In vitro	8386634, 2555220, 2176079
+PP2Abeta	CHK2	protein substrate	Homo sapiens (Human)	Thr-68	In vitro and in vivo	15380617, 16596250
+PP2Abeta	DARPP32	protein substrate	Mus musculus (Mouse)	Thr-75 	In vitro	12065642, 10217279
+PP2Abeta	Integrin beta-1	protein substrate	Homo sapiens (Human)	Thr-788, Thr-789 	In vitro	14660602, 10896784
+PP2Abeta	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	15147202
+PP2Balpha	NFAT1	protein substrate	Mus musculus (Mouse)	five serines of Ser-168, Ser-171, Ser-172, Ser-174, Ser-175, Ser-177, and Ser-180; Ser-213, Ser-217, Ser-221, Ser-268, Ser-274, Ser-276, Ser-280, Ser-326 in isoform C	In vitro and in vivo	9660947, 11030334
+PP2Balpha	alpha-crystallin A chain	protein substrate	Bos taurus (Bovine)	N/A	In vitro	2548498
+PP2Balpha	Calnexin	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	20700529
+PP2Balpha	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP2Balpha	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP2Balpha	HSP27	protein substrate	Homo sapiens (Human)	N/A	In vitro	7510704
+PP2Balpha	NFH	protein substrate	Mus musculus (Mouse)	N/A	In vitro	20031277
+PP2Balpha	NTCP	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	12065290
+PP2Balpha	RIIalpha	protein substrate	Mus musculus (Mouse)	N/A	In vitro	9660947
+PP2Balpha	slingshot-1	protein substrate	Homo sapiens (Human)	N/A	In vitro	15671020
+PP2Balpha	VASP	protein substrate	Homo sapiens (Human)	N/A	In vitro	7656973
+PP2Balpha	Calcipressin-1	protein substrate	Mus musculus (Mouse)	Ser-108	In vitro	12063245
+PP2Balpha	KSR2	protein substrate	Mus musculus (Mouse)	Ser-198, Thr-291, Ser-314 	In vivo	19560418
+PP2Balpha	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 15959850, 9660947
+PP2Balpha	Filamin-A	protein substrate	Homo sapiens (Human)	Ser-2152	In vitro and in vivo	16442073
+PP2Balpha	c-Jun	protein substrate	Homo sapiens (Human)	Ser-243	In vitro	17215518
+PP2Balpha	ELK1	protein substrate	Homo sapiens (Human)	Ser-383	In vitro	10329725
+PP2Balpha	DRP1	protein substrate	Homo sapiens (Human)	Ser-637 	In vivo	18838687, 17721437
+PP2Balpha	IPP-1	protein substrate	Rattus norvegicus (Rat)	Ser-67	In vitro and in vivo	11278334
+PP2Balpha	BAD	protein substrate	Homo sapiens (Human), Mus musculus (Mouse)	Ser-75, Ser-99 in Q92934; Thr-117 in Q61337 	In vitro and in vivo	10195903, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Balpha	DYN2	protein substrate	Rattus norvegicus (Rat)	Ser-764	In vitro and in vivo	20496096
+PP2Balpha	Dynamin-1	protein substrate	Rattus norvegicus (Rat)	Ser-778	In vitro	8052858, 20496096
+PP2Balpha	GSK-3 beta	protein substrate	Homo sapiens (Human)	Ser-9	In vitro	19659461
+PP2Balpha	DARPP32	protein substrate	Mus musculus (Mouse)	Thr-34	In vitro	12065642, 10217279
+PP2Balpha	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	7896780, 15147202
+PP2Bbeta	NFAT1	protein substrate	Mus musculus (Mouse)	five serines of Ser-168, Ser-171, Ser-172, Ser-174, Ser-175, Ser-177, and Ser-180; Ser-213, Ser-217, Ser-221, Ser-268, Ser-274, Ser-276, Ser-280, Ser-326 in isoform C	In vitro and in vivo	9660947, 11030334
+PP2Bbeta	alpha-crystallin A chain	protein substrate	Bos taurus (Bovine)	N/A	In vitro	2548498
+PP2Bbeta	Calnexin	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	20700529
+PP2Bbeta	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP2Bbeta	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP2Bbeta	HSP27	protein substrate	Homo sapiens (Human)	N/A	In vitro	7510704
+PP2Bbeta	NFH	protein substrate	Mus musculus (Mouse)	N/A	In vitro	20031277
+PP2Bbeta	NTCP	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	12065290
+PP2Bbeta	RIIalpha	protein substrate	Mus musculus (Mouse)	N/A	In vitro	9660947
+PP2Bbeta	slingshot-1	protein substrate	Homo sapiens (Human)	N/A	In vitro	15671020
+PP2Bbeta	VASP	protein substrate	Homo sapiens (Human)	N/A	In vitro	7656973
+PP2Bbeta	Calcipressin-1	protein substrate	Mus musculus (Mouse)	Ser-108	In vitro	12063245
+PP2Bbeta	KSR2	protein substrate	Mus musculus (Mouse)	Ser-198, Thr-291, Ser-314 	In vivo	19560418
+PP2Bbeta	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 15959850, 9660947
+PP2Bbeta	Filamin-A	protein substrate	Homo sapiens (Human)	Ser-2152	In vitro and in vivo	16442073
+PP2Bbeta	c-Jun	protein substrate	Homo sapiens (Human)	Ser-243	In vitro	17215518
+PP2Bbeta	ELK1	protein substrate	Homo sapiens (Human)	Ser-383	In vitro	10329725
+PP2Bbeta	DRP1	protein substrate	Homo sapiens (Human)	Ser-637 	In vivo	18838687, 17721437
+PP2Bbeta	IPP-1	protein substrate	Rattus norvegicus (Rat)	Ser-67	In vitro and in vivo	11278334
+PP2Bbeta	BAD	protein substrate	Homo sapiens (Human), Mus musculus (Mouse)	Ser-75, Ser-99 in Q92934; Thr-117 in Q61337 	In vitro and in vivo	10195903, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Bbeta	DYN2	protein substrate	Rattus norvegicus (Rat)	Ser-764	In vitro and in vivo	20496096
+PP2Bbeta	Dynamin-1	protein substrate	Rattus norvegicus (Rat)	Ser-778	In vitro	8052858, 20496096
+PP2Bbeta	GSK-3 beta	protein substrate	Homo sapiens (Human)	Ser-9	In vitro	19659461
+PP2Bbeta	DARPP32	protein substrate	Mus musculus (Mouse)	Thr-34	In vitro	12065642, 10217279
+PP2Bbeta	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	7896780, 15147202
+PP2Bgamma	NFAT1	protein substrate	Mus musculus (Mouse)	five serines of Ser-168, Ser-171, Ser-172, Ser-174, Ser-175, Ser-177, and Ser-180; Ser-213, Ser-217, Ser-221, Ser-268, Ser-274, Ser-276, Ser-280, Ser-326 in isoform C	In vitro and in vivo	9660947, 11030334
+PP2Bgamma	alpha-crystallin A chain	protein substrate	Bos taurus (Bovine)	N/A	In vitro	2548498
+PP2Bgamma	Calnexin	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	20700529
+PP2Bgamma	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	9430669
+PP2Bgamma	GAD65	protein substrate	Homo sapiens (Human)	N/A	In vitro	15147202
+PP2Bgamma	HSP27	protein substrate	Homo sapiens (Human)	N/A	In vitro	7510704
+PP2Bgamma	NFH	protein substrate	Mus musculus (Mouse)	N/A	In vitro	20031277
+PP2Bgamma	NTCP	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	12065290
+PP2Bgamma	RIIalpha	protein substrate	Mus musculus (Mouse)	N/A	In vitro	9660947
+PP2Bgamma	slingshot-1	protein substrate	Homo sapiens (Human)	N/A	In vitro	15671020
+PP2Bgamma	VASP	protein substrate	Homo sapiens (Human)	N/A	In vitro	7656973
+PP2Bgamma	Calcipressin-1	protein substrate	Mus musculus (Mouse)	Ser-108	In vitro	12063245
+PP2Bgamma	KSR2	protein substrate	Mus musculus (Mouse)	Ser-198, Thr-291, Ser-314 	In vivo	19560418
+PP2Bgamma	TAU	protein substrate	Homo sapiens (Human)	Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 15959850, 9660947
+PP2Bgamma	Filamin-A	protein substrate	Homo sapiens (Human)	Ser-2152	In vitro and in vivo	16442073
+PP2Bgamma	c-Jun	protein substrate	Homo sapiens (Human)	Ser-243	In vitro	17215518
+PP2Bgamma	ELK1	protein substrate	Homo sapiens (Human)	Ser-383	In vitro	10329725
+PP2Bgamma	DRP1	protein substrate	Homo sapiens (Human)	Ser-637 	In vivo	18838687, 17721437
+PP2Bgamma	IPP-1	protein substrate	Rattus norvegicus (Rat)	Ser-67	In vitro and in vivo	11278334
+PP2Bgamma	BAD	protein substrate	Homo sapiens (Human), Mus musculus (Mouse)	Ser-75, Ser-99 in Q92934; Thr-117 in Q61337 	In vitro and in vivo	10195903, http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Bgamma	DYN2	protein substrate	Rattus norvegicus (Rat)	Ser-764	In vitro and in vivo	20496096
+PP2Bgamma	Dynamin-1	protein substrate	Rattus norvegicus (Rat)	Ser-778	In vitro	8052858, 20496096
+PP2Bgamma	GSK-3 beta	protein substrate	Homo sapiens (Human)	Ser-9	In vitro	19659461
+PP2Bgamma	DARPP32	protein substrate	Mus musculus (Mouse)	Thr-34	In vitro	12065642, 10217279
+PP2Bgamma	GAD67	protein substrate	Homo sapiens (Human)	Thr-91	In vitro	7896780, 15147202
+PP2Calpha	PAK2	protein substrate	N/A	N/A	In vitro	18586681
+PP2Calpha	MRCK alpha	protein substrate	N/A	N/A	In vitro	18586681
+PP2Calpha	MRCK beta	protein substrate	N/A	N/A	In vitro	18586681
+PP2Calpha	AXIN1	protein substrate	N/A	N/A	In vitro and in vivo	10644691
+PP2Calpha	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9707433, 18586681
+PP2Calpha	MEK6	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9707433
+PP2Calpha	SEK1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9707433
+PP2Calpha	SMAD1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	16931515
+PP2Calpha	SMAD2	protein substrate	Homo sapiens (Human)	N/A	In vitro	16751101
+PP2Calpha	SMAD3	protein substrate	Homo sapiens (Human)	N/A	In vitro	16751101
+PP2Calpha	IKKB	protein substrate	Homo sapiens (Human)	Ser-177, Ser-181	In vitro and in vivo	18930133
+PP2Calpha	PAK1	protein substrate	Rattus norvegicus (Rat)	Ser-57, Ser-198 in ref. 	In vitro and in vivo	18586681
+PP2Calpha	PI3K regulatory subunit alpha	protein substrate	Bos taurus (Bovine)	Ser-608	In vivo	15016818
+PP2Calpha	mGluR3	protein substrate	Homo sapiens (Human)	Ser-845	In vitro	14663150
+PP2Calpha	Centrin-1	protein substrate	Homo sapiens (Human)	Thr-138	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Calpha	CDK2	protein substrate	Homo sapiens (Human)	Thr-160	In vitro	10934208
+PP2Calpha	CDK6	protein substrate	Homo sapiens (Human)	Thr-177	In vitro	10934208
+PP2Calpha	CDK9	protein substrate	Homo sapiens (Human)	Thr-186	In vitro and in vivo	18829461
+PP2Calpha	PKC-delta	protein substrate	Homo sapiens (Human)	Thr-507, Ser-645, Ser-664 	In vitro	11959144
+PP2Calpha	MSN	protein substrate	Homo sapiens (Human)	Thr-558	In vitro	10480873
+PP2Calpha	EF2	protein substrate	Rattus norvegicus (Rat)	Thr-57, Thr-59 	In vitro	8386634, 7548224, 2176079
+PP2Cbeta	Centrin-2	protein substrate	Homo sapiens (Human)	N/A	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Cbeta	IKKB	protein substrate	Homo sapiens (Human)	Ser-177, Ser-181	In vitro and in vivo	14585847, 18930133
+PP2Cbeta	TAK1	protein substrate	Homo sapiens (Human)	Ser-192	In vitro	11104763
+PP2Cbeta	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Cbeta	Centrin-1	protein substrate	Homo sapiens (Human)	Thr-138	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP2Cbeta	CDK2	protein substrate	Homo sapiens (Human)	Thr-160	In vitro	10934208
+PP2Cbeta	CDK6	protein substrate	Homo sapiens (Human)	Thr-177	In vitro	10934208
+PP2Cbeta	CDK9	protein substrate	Homo sapiens (Human)	Thr-186	In vitro	18829461
+PP2Cbeta	MSN	protein substrate	Homo sapiens (Human)	Thr-558	In vitro	10480873
+PP2Cgamma	Coilin	protein substrate	Homo sapiens (Human)	N/A	In vitro	19435804
+PP2Cgamma	GEMIN3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17984321
+PP2Cgamma	Histone H2A	protein substrate	Homo sapiens (Human)	N/A	In vitro	17074886
+PP2Cgamma	Histone H2B	protein substrate	Homo sapiens (Human)	N/A	In vitro	17074886
+PP2Cgamma	SMN	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17984321
+PP2Cgamma	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro	17074886
+PP2Cdelta	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro and in vivo	20118229
+PP2Cdelta	p53	protein substrate	Homo sapiens (Human)	Ser-15	In vitro and in vivo	15870257
+PP2Cdelta	ATM	protein substrate	Homo sapiens (Human)	Ser-1981	In vitro and in vivo	16949371
+PP2Cdelta	p90RSK3	protein substrate	Mus musculus (Mouse)	Ser-227, Ser-369, Ser-386, Thr-577	In vitro and in vivo	15206906
+PP2Cdelta	CHK1	protein substrate	Homo sapiens (Human)	Ser-345	In vitro and in vivo	15870257
+PP2Cdelta	MDM2	protein substrate	Homo sapiens (Human)	Ser-395	In vitro and in vivo	17936559
+PP2Cdelta	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	Thr-180	In vitro	11101524
+PP2Cdelta	UDG	protein substrate	Homo sapiens (Human)	Thr-6	In vitro	15327777
+PP2Cdelta	CHK2	protein substrate	Homo sapiens (Human)	Thr-68	In vitro and in vivo	16311512
+PP2Cepsilon	CERT	protein substrate	Homo sapiens (Human)	N/A	In vivo	18165232
+PP2Cepsilon	TAK1	protein substrate	Homo sapiens (Human)	N/A	In vitro	12556533
+PP2Cepsilon	ASK1	protein substrate	Mus musculus (Mouse)	Thr-845 	In vitro	17456047
+PP2Ceta	IKKB	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19594441
+PP2Ckappa	BCKDH E1-alpha	protein substrate	Homo sapiens (Human)	Ser-337	In vitro and in vivo	19411760
+PP4c	HPK1	protein substrate	Homo sapiens (Human)	N/A	In vivo	15364934
+PP4c	RP-A p32	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	20154705
+PP4c	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vitro and in vivo	18758438, 18614045
+PP4c	HD3	protein substrate	Homo sapiens (Human)	Ser-424	In vivo	15805470
+PP4c	Nudel	protein substrate	Homo sapiens (Human)	Thr-219	In vitro and in vivo	18347064
+PP4c	NF-kappa-B p65	protein substrate	Homo sapiens (Human)	Thr-435	In vivo	15073167
+PP5	CKI-epsilon	protein substrate	Homo sapiens (Human)	N/A	In vitro	16790549
+PP5	CDC37	protein substrate	Homo sapiens (Human)	Ser-13	In vitro and in vivo	18922470
+PP5	TAU	protein substrate	Homo sapiens (Human)	Ser-198, Ser-199, Ser-202, Thr-205, Thr-212, Ser-214, Ser-235, Ser-262, Ser-396, Ser-404, Ser-409 in Isoform Tau-F (Tau-4)	In vitro	16262633, 12435421
+PP5	GR	protein substrate	Homo sapiens (Human)	Ser-211	In vivo	19586900
+PP5	RAF1	protein substrate	N/A	Ser-338	In vitro and in vivo	16892053
+PP5	BAD	protein substrate	Mus musculus (Mouse)	Thr-117 	In vitro	http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005908
+PP5	MRK	protein substrate	Homo sapiens (Human)	Thr-157	In vitro and in vivo	16954377
+PP5	ASK1	protein substrate	Mus musculus (Mouse)	Thr-845 	In vitro and in vivo	11689443, 17456047
+PP6	Aurora A	protein substrate	Homo sapiens (Human)	N/A	In vitro	21187329
+PP6	DNA-PKcs	protein substrate	Homo sapiens (Human)	N/A	In vivo	19198648
+PP6	MBP	protein substrate	N/A	N/A	In vitro	16895907
+PP6	gamma-H2AX	protein substrate	Homo sapiens (Human)	Ser-140 	In vivo	20065038
+PP6	TAK1	protein substrate	Homo sapiens (Human)	Thr-187	In vivo	17079228
+PPAPDC2	farnesyl diphosphate	non-protein substrate	N/A	N/A	In vitro	16464866
+PPAPDC2	phosphatidic acid	non-protein substrate	N/A	N/A	In vitro	16464866
+PPAPDC2	presqualene diphosphate	non-protein substrate	N/A	N/A	In vitro	16464866
+PPM1H	CSE1L	protein substrate	N/A	N/A	In vitro and in vivo	18059182
+PPM1H	p27Kip1	protein substrate	Homo sapiens (Human)	Thr-187	In vitro and in vivo	http://cancerdiscovery.aacrjournals.org/content/early/2011/07/20/2159-8290.CD-11-0062
+PRL-1	ATF7	protein substrate	Mus musculus (Mouse)	N/A	In vitro	11278933
+PRL-3	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	21806020
+PRL-3	Integrin beta-1	protein substrate	Homo sapiens (Human)	N/A	In vivo	19930715, 16472776
+PRL-3	Nucleolin	protein substrate	Homo sapiens (Human)	N/A	In vivo	20860603
+PRL-3	p130cas	protein substrate	Homo sapiens (Human)	N/A	In vivo	11355880
+PRL-3	Stathmin	protein substrate	Homo sapiens (Human)	N/A	In vivo	20806969
+PRL-3	Keratin-8	protein substrate	Homo sapiens (Human)	Ser-74, Ser-432 	In vivo	19115206
+PRL-3	Ezrin	protein substrate	Homo sapiens (Human)	Thr-567	In vitro and in vivo	18078820
+PSPase	O-phospho-L-serine	non-protein substrate	N/A	N/A	In vitro and in vivo	6089514, 12213811, 12777757, 12051918, 15291819, 20352489
+PTEN	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	In vitro	9593664, 14764604
+PTEN	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	10555148, 11395408
+PTEN	PtdIns(3,4)P2	non-protein substrate	N/A	N/A	In vitro	14764604, 10555148, 11395408
+PTEN	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro and in vivo	9593664, 9811831, 14764604, 10555148, 18524949
+PTEN	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	11279206
+PTEN	PDGFRB	protein substrate	Homo sapiens (Human)	N/A	In vitro	14718524
+PTEN	SHC1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10427092, 21206972
+PTEN	CREB1	protein substrate	Homo sapiens (Human)	Ser-133	In vitro and in vivo	21385900
+PTEN	FAK	protein substrate	Homo sapiens (Human)	Tyr-397	In vitro and in vivo	10400703, 9616126, 10427092
+PTP1B	RAF1	protein substrate	Homo sapiens (Human)	N/A	In vitro	7604263
+PTP1B	SHP1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21123182
+PTP1B	p210 BCR-ABL	protein substrate	Homo sapiens (Human)	N/A	In vivo	9566916
+PTP1B	beta-catenin	protein substrate	Homo sapiens (Human)	N/A	In vivo	9786960
+PTP1B	CRK	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	12799422
+PTP1B	EPOR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	14527337
+PTP1B	GAB1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21123182
+PTP1B	GSK-3 beta	protein substrate	Oryctolagus cuniculus (Rabbit)	N/A	In vitro	7514173
+PTP1B	IGF1R	protein substrate	Homo sapiens (Human)	N/A	In vitro	8702689
+PTP1B	IRS1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11579209, 10660596
+PTP1B	LAT	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	12857726
+PTP1B	NSF	protein substrate	Homo sapiens (Human)	N/A	In vitro	19208619
+PTP1B	p130cas	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	8940134, 9418872
+PTP1B	p62(dok)	protein substrate	Mus musculus (Mouse)	N/A	In vivo	14766979
+PTP1B	PLC-gamma-1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21123182
+PTP1B	SHP2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	21123182
+PTP1B	STAT6	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18716132
+PTP1B	TYK2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11694501
+PTP1B	JAK2	protein substrate	Homo sapiens (Human)	Tyr-1007, Tyr-1008	In vitro and in vivo	11970898, 15821101, 11694501
+PTP1B	EGFR	protein substrate	Homo sapiens (Human)	Tyr-1016 	In vitro and in vivo	9050838, 10889023, 7540771, 8621392, 12424235, 9355745, 21123182
+PTP1B	alpha-actinin-1	protein substrate	Homo sapiens (Human)	Tyr-12 	In vitro and in vivo	16291744
+PTP1B	MET	protein substrate	Homo sapiens (Human)	Tyr-1234, Tyr-1235	In vivo	18819921
+PTP1B	Caveolin-1	protein substrate	N/A	Tyr-14	In vitro and in vivo	16388599
+PTP1B	TRPV6	protein substrate	Rattus norvegicus (Rat)	Tyr-161, Tyr-162 	In vitro and in vivo	17197020, 15894168
+PTP1B	STAM2	protein substrate	Homo sapiens (Human)	Tyr-291	In vitro and in vivo	20504764
+PTP1B	GHR	protein substrate	Homo sapiens (Human)	Tyr-332, Tyr-487	In vitro and in vivo	12907755
+PTP1B	FAK	protein substrate	Rattus norvegicus (Rat)	Tyr-397	In vivo	16291744, 9418872
+PTP1B	SRC	protein substrate	Homo sapiens (Human)	Tyr-419, Tyr-530	In vitro and in vivo	11007774, 16115959, 15866871, 17974954
+PTP1B	IkB-alpha	protein substrate	Homo sapiens (Human)	Tyr-42	In vitro	8940099
+PTP1B	Cortactin	protein substrate	Homo sapiens (Human)	Tyr-446	In vivo	18387954
+PTP1B	ERalpha	protein substrate	Homo sapiens (Human)	Tyr-537	In vitro	7539106
+PTP1B	PTP1B	protein substrate	Homo sapiens (Human)	Tyr-66, Tyr-152, Tyr-153 	In vitro and in vivo	11506178
+PTP1B	STAT5A	protein substrate	Mus musculus (Mouse)	Tyr-694	In vitro and in vivo	10993888
+PTP1B	STAT5B	protein substrate	Mus musculus (Mouse)	Tyr-699	In vitro and in vivo	10993888
+PTP1B	STAT3	protein substrate	Homo sapiens (Human)	Tyr-705 	In vitro and in vivo	11970898, 15821101
+PTP1B	PDGFRB	protein substrate	Homo sapiens (Human)	Tyr-740, Tyr-751, Tyr-771, Tyr-1009, Tyr-1021 	In vitro and in vivo	7545675, 9355745, 7693671
+PTP1B	hEK4	protein substrate	Homo sapiens (Human)	Tyr-779	In vitro and in vivo	21135139
+PTP1B	INSR	protein substrate	Homo sapiens (Human)	Tyr-999, Tyr-1185, Tyr-1189, Tyr-1190 	In vitro and in vivo	12634852, 16582879, 16271887, 17159996, 15588987, 17481567, 8826975, 14722096, 12237455, 11579209, 8999839, 11163213
+PTP-BAS	CCM3	protein substrate	Homo sapiens (Human)	N/A	In vitro	17657516
+PTP-BAS	IRS1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17638892
+PTP-BAS	MBP	protein substrate	N/A	N/A	In vitro	7929060
+PTP-BAS	IkB-alpha	protein substrate	Homo sapiens (Human)	Tyr-42	In vitro and in vivo	11106428, 9882613
+PTP-BAS	TRIP6	protein substrate	Homo sapiens (Human)	Tyr-55	In vitro and in vivo	17591779
+PTPD1	SRC	protein substrate	N/A	Tyr-530	In vivo	15143158
+PTPH1	MAP kinase p38gamma	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	20332238
+PTPH1	TCRZ	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	14672952
+PTPH1	GHR	protein substrate	Homo sapiens (Human)	Tyr-534	In vitro and in vivo	12907755
+PTPH1	VCP	protein substrate	Mus musculus (Mouse)	Tyr-796, Tyr-805	In vitro and in vivo	10364224
+PTP-MEG1	TCRZ	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18614237
+PTP-MEG2	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vivo	20335174
+PTP-MEG2	ERBB2	protein substrate	Homo sapiens (Human)	N/A	In vivo	20335174
+PTP-MEG2	NSF	protein substrate	Mus musculus (Mouse)	N/A	In vivo	15322554
+PTPMT1	phosphatidylglycerol phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	21641550, 21730175
+BDP1	p190 RhoGAP	protein substrate	N/A	N/A	In vivo	12554790
+BDP1	PSTPIP1	protein substrate	N/A	N/A	In vivo	9265651
+BDP1	ABL1	protein substrate	N/A	N/A	In vivo	11163214
+BDP1	FYN	protein substrate	N/A	N/A	In vivo	11158295
+PTPN20	reduced carboxyamidomethylated and maleylated lysozyme (RCML)	protein substrate	N/A	N/A	In vitro	15790311
+GLEPP1	Trk-C	protein substrate	N/A	N/A	In vivo	19573017
+GLEPP1	EK8	protein substrate	N/A	N/A	In vitro and in vivo	16680165
+GLEPP1	EK5	protein substrate	N/A	N/A	In vitro and in vivo	16680165
+PTP-PEST	p130cas	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9285683, 12714323, 9748319, 8887669, 9920935
+PTP-PEST	ABL1	protein substrate	Mus musculus (Mouse)	N/A 	In vivo	11163214
+PTP-PEST	WASp	protein substrate	N/A	Tyr-291	In vivo	14707117
+PTP-PEST	PSTPIP1	protein substrate	Mus musculus (Mouse)	Tyr-344 	In vivo	11711533
+PTP-PEST	FAK	protein substrate	Rattus norvegicus (Rat)	Tyr-397 	In vitro and in vivo	19595712
+PTP-PEST	PYK2	protein substrate	Rattus norvegicus (Rat)	Tyr-402, Tyr-579, Tyr-580	In vitro and in vivo	11337490
+PTP-PEST	SRC	protein substrate	Mus musculus (Mouse)	Tyr-424	In vivo	18482983
+PTPS31	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(4)P	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(5)P	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(3,4)P2	non-protein substrate	N/A	N/A	In vitro	12802008
+PTPS31	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	12802008
+PTP-SL	ERK5	protein substrate	Homo sapiens (Human)	Tyr-221 	In vitro and in vivo	12042304
+HCE	5'-phosphopolynucleotide	non-protein substrate	N/A	N/A	In vitro	9512541, 9473487
+RPAP2	POLR2A	protein substrate	Homo sapiens (Human)	Multiple Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro and in vivo	22137580
+PTP-J	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vitro	8870675
+PTP-J	beta-catenin	protein substrate	Mus musculus (Mouse)	N/A	In vivo	12501215, 16574648
+RPTPalpha	p130cas	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro and in vivo	10787408
+RPTPalpha	LYN	protein substrate	Rattus norvegicus (Rat)	Tyr-397	In vivo	15537644
+RPTPalpha	SRC	protein substrate	Gallus gallus (Chicken)	Tyr-416, Tyr-527 	In vitro and in vivo	10698938, 11923305
+RPTPalpha	FYN	protein substrate	Homo sapiens (Human)	Tyr-531	In vivo	9535845
+RPTPalpha	RPTPalpha	protein substrate	Homo sapiens (Human)	Tyr-789 in isoform 2 	In vitro and in vivo	7518772
+RPTPbeta	TIE2	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	10557082, 19116766, 19451274 
+RPTPbeta	VEGFR-2	protein substrate	Homo sapiens (Human)	Tyr-1175	In vivo	19136612
+RPTPbeta	MET	protein substrate	Homo sapiens (Human)	Tyr-1356	In vitro and in vivo	21454675
+RPTPgamma	p210 BCR-ABL	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	20959494
+RPTPdelta	STAT3	protein substrate	Homo sapiens (Human)	Tyr-705	In vitro and in vivo	19478061
+RPTPepsilon	ERK1	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	12754301
+RPTPepsilon	FYN	protein substrate	Homo sapiens (Human)	N/A	In vivo	14980517
+RPTPepsilon	YES	protein substrate	Mus musculus (Mouse)	N/A	In vivo	14980517
+RPTPepsilon	ERK2	protein substrate	Rattus norvegicus (Rat)	Thr-183, Tyr-185 	In vivo	12754301
+RPTPepsilon	INSR	protein substrate	Rattus norvegicus (Rat)	Tyr-1000, Tyr-1186, Tyr-1190, Tyr-1191 	In vivo	15738637
+RPTPepsilon	DRK1	protein substrate	Rattus norvegicus (Rat)	Tyr-128 	In vitro and in vivo	10921884
+RPTPepsilon	SRC	protein substrate	Gallus gallus (Chicken)	Tyr-527 	In vivo	12598528, 15522235
+RPTPzeta	Trk-A	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	18477627
+RPTPzeta	p190 RhoGAP	protein substrate	Mus musculus (Mouse)	Tyr-1105	In vitro and in vivo	16513268, 15588986
+RPTPzeta	beta-adducin	protein substrate	Homo sapiens (Human)	Tyr-568 	In vivo	16105548
+RPTPeta	LAT	protein substrate	Homo sapiens (Human)	N/A	In vitro	11259588
+RPTPeta	Occludin	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19332538
+RPTPeta	p120 catenin	protein substrate	Homo sapiens (Human)	N/A	In vitro	12370829
+RPTPeta	PI3K regulatory subunit alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	18348712
+RPTPeta	PLC-gamma-1	protein substrate	Homo sapiens (Human)	N/A	In vitro	11259588
+RPTPeta	ZO1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	19332538
+RPTPeta	VEGFR-2	protein substrate	Homo sapiens (Human)	Tyr-1054, Tyr-1059	In vitro and in vivo	18936167
+RPTPeta	EGFR	protein substrate	Homo sapiens (Human)	Tyr-1069, Tyr-1092, Tyr-1197 	In vivo	19836242
+RPTPeta	MET	protein substrate	Homo sapiens (Human)	Tyr-1349, Tyr-1365 	In vitro and in vivo	12475979
+RPTPeta	ERK2	protein substrate	Rattus norvegicus (Rat)	Tyr-185	In vitro and in vivo	19494114
+RPTPeta	ERK1	protein substrate	N/A	Tyr-204	In vitro and in vivo	19494114
+RPTPeta	LYN	protein substrate	Homo sapiens (Human)	Tyr-508 	In vitro	20345711
+RPTPeta	SRC	protein substrate	Rattus norvegicus (Rat)	Tyr-530 	In vitro and in vivo	15735685, 20345711
+RPTPeta	FYN	protein substrate	Homo sapiens (Human)	Tyr-531 	In vitro	20345711
+RPTPeta	CBL	protein substrate	Homo sapiens (Human)	Tyr-731	In vivo	19836242
+RPTPeta	PDGFRB	protein substrate	Homo sapiens (Human)	Tyr-751, Tyr-1021 	In vitro and in vivo	12062403, 10821867
+RPTPeta	RET	protein substrate	Homo sapiens (Human)	Tyr-905, Tyr-1062	In vitro and in vivo	16778204
+RPTPkappa	beta-catenin	protein substrate	Homo sapiens (Human)	N/A	In vitro	8663237
+RPTPkappa	EGFR	protein substrate	Homo sapiens (Human)	Tyr-1092, Tyr-1197 	In vitro and in vivo	16263724
+RPTPmu	p120 catenin	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	10753936
+RPTPrho	E-cadherin	protein substrate	Mus musculus (Mouse)	N/A	In vitro	16973135
+RPTPrho	p120 catenin	protein substrate	Mus musculus (Mouse)	N/A	In vitro	16973135
+RPTPrho	STAT3	protein substrate	Homo sapiens (Human)	Tyr-705	In vitro and in vivo	17360477
+RPTPrho	Paxillin	protein substrate	Homo sapiens (Human)	Tyr-88	In vitro and in vivo	20133777
+RPTPsigma	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vivo	10435588, 15522239
+RPTPsigma	Trk-A	protein substrate	Homo sapiens (Human)	N/A	In vivo	17967490
+RPTPsigma	Trk-B	protein substrate	Homo sapiens (Human)	N/A	In vivo	17967490
+RPTPsigma	Trk-C	protein substrate	Homo sapiens (Human)	N/A	In vivo	17967490
+SAC1	PtdIns(3)P	non-protein substrate	N/A	N/A	In vitro	10625610
+SAC1	PtdIns(4)P	non-protein substrate	N/A	N/A	In vitro	10625610
+SAC2	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	11274189
+SAC2	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	In vitro	11274189
+SAP1	LCK	protein substrate	Homo sapiens (Human)	N/A	In vitro	12837766
+SAP1	p130cas	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	11278335
+SAP1	p62(dok)	protein substrate	Mus musculus (Mouse)	N/A	In vivo	12101188
+SAP1	SRC	protein substrate	N/A	N/A	In vivo	15850787
+SCP1	POLR2A	protein substrate	Bos taurus (Bovine)	Multiple Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro and in vivo	12721286, 17157258
+SCP1	SMAD1	protein substrate	Homo sapiens (Human)	Ser-187, Ser-195, Ser-206 	In vitro and in vivo	17085434, 16882717
+SCP1	SMAD3	protein substrate	Homo sapiens (Human)	Thr-8, Ser-204, Ser-208, Ser-213	In vitro and in vivo	17035229
+SCP1	SMAD2	protein substrate	Homo sapiens (Human)	Thr-8, Ser-245, Ser-250, Ser-255	In vitro and in vivo	17035229, 17085434
+SCP2	POLR2A	protein substrate	Bos taurus (Bovine)	Multiple Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro	12721286
+SCP2	SMAD1	protein substrate	Homo sapiens (Human)	Ser-187, Ser-195, Ser-206 	In vitro and in vivo	17085434, 16882717
+SCP2	SMAD3	protein substrate	Homo sapiens (Human)	Thr-8, Ser-204, Ser-208, Ser-213	In vitro and in vivo	17035229
+SCP2	SMAD2	protein substrate	Homo sapiens (Human)	Thr-8, Ser-245, Ser-250, Ser-255	In vitro and in vivo	17035229, 17085434
+SCP3	CaMKIIgamma	protein substrate	Mustela putorius furo (domestic ferret)	N/A	In vitro	18338982
+SCP3	SMAD1	protein substrate	Homo sapiens (Human)	Ser-187, Ser-195, Ser-206 	In vitro and in vivo	17085434, 16882717
+SCP3	RB	protein substrate	Homo sapiens (Human)	Ser-807, Ser-811	In vivo	15051889
+SCP3	SMAD3	protein substrate	Homo sapiens (Human)	Thr-8, Ser-204, Ser-208, Ser-213	In vitro and in vivo	17035229
+SCP3	SMAD2	protein substrate	Homo sapiens (Human)	Thr-8, Ser-245, Ser-250, Ser-255	In vitro and in vivo	17035229, 17085434
+SHIP1	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	In vitro	12421919, 8643691, 8723348
+SHIP1	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro and in vivo	12421919, 8643691, 8723348, 8654924
+SHIP2	Ins(1,2,3,4,5)P5	non-protein substrate	N/A	N/A	In vitro	15316017
+SHIP2	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	In vitro	15316017
+SHIP2	Ins(1,4,5,6)P4	non-protein substrate	N/A	N/A	In vitro	15316017
+SHIP2	Ins(2,4,5,6)P4	non-protein substrate	N/A	N/A	In vitro	15316017
+SHIP2	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro and in vivo	11349134, 17893321, 15316017
+SHIP2	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	15316017
+SHP1	alpha-actinin-1	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	15070900
+SHP1	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9038217
+SHP1	JAK2	protein substrate	Mus musculus (Mouse)	N/A	In vivo	8943354
+SHP1	nNOS	protein substrate	Rattus norvegicus (Rat)	N/A	In vivo	11511520
+SHP1	p120 catenin	protein substrate	Homo sapiens (Human)	N/A	In vivo	10835420
+SHP1	ROS1	protein substrate	Mus musculus (Mouse)	N/A	In vivo	11266449
+SHP1	CD33	protein substrate	Homo sapiens (Human)	N/A 	In vitro	10206955
+SHP1	KIT	protein substrate	Homo sapiens (Human)	N/A 	In vitro	7684496
+SHP1	VEGFR-2	protein substrate	Homo sapiens (Human)	Tyr-1059, Tyr-1175	In vivo	18377662
+SHP1	TONEBP	protein substrate	Homo sapiens (Human)	Tyr-143	In vitro and in vivo	20351292
+SHP1	SRC	protein substrate	Homo sapiens (Human)	Tyr-338, Tyr-419, Tyr-530	In vitro and in vivo	9261115
+SHP1	HOXA10	protein substrate	Homo sapiens (Human)	Tyr-343, Tyr-360 	In vitro	12145285
+SHP1	LCK	protein substrate	Mus musculus (Mouse)	Tyr-394	In vitro and in vivo	11294838, 10617656
+SHP1	LYN	protein substrate	Rattus norvegicus (Rat)	Tyr-397	In vivo	15537644
+SHP1	Caspase-8	protein substrate	Homo sapiens (Human)	Tyr-397, Tyr-465 in isoform 4	In vivo	18086677
+SHP1	ERalpha	protein substrate	Homo sapiens (Human)	Tyr-537	In vitro	7539106
+SHP1	GAB2	protein substrate	Mus musculus (Mouse)	Tyr-632 	In vitro	11812650
+SHP1	Trk-A	protein substrate	Homo sapiens (Human)	Tyr-674, Tyr-675 in Isoform TrkA-I 	In vitro and in vivo	14662744
+SHP1	CD22	protein substrate	Mus musculus (Mouse)	Tyr-777 	In vivo	8627166, 10228003, 9890995
+SHP2	SPRY2	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	15031289
+SHP2	PAG	protein substrate	Homo sapiens (Human)	N/A	In vivo	14967142
+SHP2	MEKK4	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	15601262
+SHP2	p190-B	protein substrate	Mus musculus (Mouse)	N/A	In vitro	15169898
+SHP2	Paxillin	protein substrate	Homo sapiens (Human)	N/A	In vitro	14665621
+SHP2	SPRY1	protein substrate	Xenopus laevis (African clawed frog)	N/A	In vitro and in vivo	15031289
+SHP2	PYK2	protein substrate	Homo sapiens (Human)	N/A 	In vitro and in vivo	10880513
+SHP2	SHPS-1	protein substrate	Rattus norvegicus (Rat)	N/A 	In vitro	8943344, 8910355
+SHP2	JAK2	protein substrate	Homo sapiens (Human)	Tyr-1007	In vivo	14522994
+SHP2	EGFR	protein substrate	N/A	Tyr-1016 	In vitro and in vivo	14560030, 12582165
+SHP2	PZR	protein substrate	Homo sapiens (Human)	Tyr-241, Tyr-263 	In vitro	9792637, 10681522
+SHP2	SRC	protein substrate	Mus musculus (Mouse)	Tyr-424	In vivo	18482983
+SHP2	GAB1	protein substrate	Homo sapiens (Human)	Tyr-589, Tyr-627, Tyr-659	In vitro and in vivo	12582165, 14701753, 11323411, 11453982
+SHP2	E-selectin	protein substrate	Homo sapiens (Human)	Tyr-603	In vitro	11602579
+SHP2	GAB2	protein substrate	Mus musculus (Mouse)	Tyr-603 	In vitro	11812650, 10068651
+SHP2	STAT5A	protein substrate	Homo sapiens (Human)	Tyr-694	In vitro	10617656
+SHP2	STAT5B	protein substrate	Homo sapiens (Human)	Tyr-699	In vitro	10617656
+SHP2	STAT1	protein substrate	Homo sapiens (Human)	Tyr-701, Ser-727 	In vitro and in vivo	12270932, 18832710
+SHP2	PDGFRB	protein substrate	Homo sapiens (Human)	Tyr-740, Tyr-751, Tyr-771 	In vitro and in vivo	7545675
+SHP2	IRS1	protein substrate	Rattus norvegicus (Rat)	Tyr-895, Tyr-1172 	In vitro	7515062, 7935386
+SHP2	VEGFR-2	protein substrate	Homo sapiens (Human)	Tyr-951, Tyr-996, Tyr-1059	In vitro	19706677
+slingshot-1	Coronin-1B	protein substrate	Homo sapiens (Human)	Ser-2	In vitro and in vivo	17350576
+slingshot-1	Cofilin-1	protein substrate	Homo sapiens (Human)	Ser-3	In vitro and in vivo	11832213, 14531860
+slingshot-1	Destrin	protein substrate	Homo sapiens (Human)	Ser-3	In vitro and in vivo	11832213
+slingshot-1	LIMK1	protein substrate	Homo sapiens (Human)	Thr-508	In vitro	15660133
+slingshot-2	Cofilin-1	protein substrate	Homo sapiens (Human)	Ser-3	In vitro and in vivo	11832213, 14531860
+slingshot-3	Cofilin-1	protein substrate	Homo sapiens (Human)	Ser-3	In vitro and in vivo	14531860
+SPP1	phytosphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	11756451
+SPP1	sphinganine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	12815058, 11756451
+SPP1	sphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	12815058, 11756451
+SPP2	sphinganine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	12411432
+SPP2	sphingosine 1-phosphate	non-protein substrate	N/A	N/A	In vitro	12411432
+SSU72	POLR2A	protein substrate	Homo sapiens (Human)	Multiple Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro and in vivo	15125841
+STEP	BAK	protein substrate	Homo sapiens (Human)	Tyr-108	In vivo	20959805
+STEP	FYN	protein substrate	Homo sapiens (Human)	Tyr-420	In vitro	11983687
+Synaptojanin-1	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-1	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-1	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-1	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-2	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-2	Ins(1,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-2	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	N/A	UniProt
+Synaptojanin-2	PtdIns(4,5)P2	non-protein substrate	N/A	N/A	N/A	UniProt
+TCPTP	EGFR	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	9488479, 10488121, 11479308
+TCPTP	FKBP4	protein substrate	Homo sapiens (Human)	N/A	In vivo	12552015
+TCPTP	JAK3	protein substrate	Mus musculus (Mouse)	N/A	In vivo	11909529
+TCPTP	STAT3	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	12359225
+TCPTP	STAT5A	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	11773439
+TCPTP	STAT5B	protein substrate	Mus musculus (Mouse)	N/A	In vitro and in vivo	11773439
+TCPTP	STAT6	protein substrate	Homo sapiens (Human)	N/A	In vitro and in vivo	17210636
+TCPTP	JAK1	protein substrate	Mus musculus (Mouse)	Tyr-1033, Tyr-1034 	In vivo	11909529
+TCPTP	INSR	protein substrate	Homo sapiens (Human)	Tyr-1189, Tyr-1190 	In vitro and in vivo	12612081, 10734133
+TCPTP	MET	protein substrate	Homo sapiens (Human)	Tyr-1234, Tyr-1235	In vivo	18819921
+TCPTP	Caveolin-1	protein substrate	Homo sapiens (Human)	Tyr-14	In vitro	20940300
+TCPTP	SHC1	protein substrate	Homo sapiens (Human)	Tyr-239 in Isoform p52Shc 	In vivo	9488479
+TCPTP	N-WASP	protein substrate	Homo sapiens (Human)	Tyr-256	In vitro	16293614
+TCPTP	SRC	protein substrate	Homo sapiens (Human)	Tyr-419 	In vitro and in vivo	15696169
+TCPTP	STAT1	protein substrate	Homo sapiens (Human)	Tyr-701	In vitro and in vivo	12138178, 12923054, 12171910
+TCPTP	PDGFRB	protein substrate	Homo sapiens (Human)	Tyr-771, Tyr-1021 	In vitro and in vivo	14966296
+TCPTP	VEGFR-2	protein substrate	Homo sapiens (Human)	Tyr-996, Tyr-1054, Tyr-1059, Tyr-1214	In vitro and in vivo	18840653
+TIGAR	beta-D-fructose 2,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	19015259, 16839880
+TIGAR	D-fructose 1,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro	19015259
+TMDP	MBP	protein substrate	N/A	N/A	In vitro	10585869
+TPIP	Ins(1,3,4,5)P4	non-protein substrate	N/A	N/A	N/A	UniProt
+TPIP	PtdIns(3,4,5)P3	non-protein substrate	N/A	N/A	In vitro	11279206
+TPIP	PtdIns(3,5)P2	non-protein substrate	N/A	N/A	In vitro	11279206
+TR-AP	mannose 6-phosphate glycoproteins	protein substrate	N/A	N/A	In vivo	18940929, 22158965
+TR-AP	Arylsulfatase A	protein substrate	Homo sapiens (Human)	N/A	In vitro	8706666
+UBLCP1	POLR2A	protein substrate	Mus musculus (Mouse)	Multiple Ser-5 in Tyr-Ser-Pro-Thr-Ser-Pro-Ser repeats in CTD	In vitro	15883030
+MKP-8	KAP3	protein substrate	Homo sapiens (Human)	N/A	In vitro	19043453
+MKP-8	MAP kinase p38alpha	protein substrate	Homo sapiens (Human)	N/A	In vitro	16924234
+MKP-8	p53	protein substrate	Homo sapiens (Human)	Ser-20, Ser-37	In vitro and in vivo	20562916
+VHR	alpha-S1-casein	protein substrate	N/A	N/A	In vitro	1281549
+VHR	beta-casein	protein substrate	N/A	N/A	In vitro	1281549
+VHR	INSR	protein substrate	Mus musculus (Mouse)	N/A	In vitro	1281549
+VHR	JNK1	protein substrate	N/A	N/A	In vitro and in vivo	12204117, 11971192
+VHR	JNK2	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro and in vivo	11971192
+VHR	KGFR	protein substrate	Mus musculus (Mouse)	N/A	In vitro	1281549
+VHR	MAP kinase p38alpha	protein substrate	N/A	N/A	In vivo	12204117
+VHR	PDGFRB	protein substrate	Mus musculus (Mouse)	N/A	In vitro	1281549
+VHR	STAT5A	protein substrate	N/A	N/A	In vitro and in vivo	17785772
+VHR	EGFR	protein substrate	Homo sapiens (Human)	Tyr-1016 	In vitro and in vivo	21262974, 1281549
+VHR	ERK2	protein substrate	Homo sapiens (Human)	Tyr-187 	In vitro and in vivo	10224087
+VHR	ERK1	protein substrate	Homo sapiens (Human)	Tyr-204 	In vitro and in vivo	10224087
+VHR	ERBB2	protein substrate	Homo sapiens (Human)	Tyr-877, Tyr-1221	In vitro and in vivo	21262974
+YVH1	Glucokinase	protein substrate	Rattus norvegicus (Rat)	N/A	In vitro	10913113
+sEH	lysophosphatidic acid	non-protein substrate	N/A	N/A	In vitro	22217705, 22387545
+PP1alpha	Lamin B1	protein substrate	Homo sapiens (Human)	Ser-405	In vitro	9368037
+PP1alpha	PKB	protein substrate	Homo sapiens (Human)	Ser-473	In vitro and in vivo	14633703
+PP1beta	PKB	protein substrate	Homo sapiens (Human)	Ser-473	In vitro and in vivo	14633703
+PP1gamma	PKB	protein substrate	Homo sapiens (Human)	Ser-473	In vitro and in vivo	14633703
+PTEN	PTEN	protein substrate	Homo sapiens (Human)	Ser-380, Thr-382, Thr-383	In vivo	22413754
+PMM 1	glucose 1,6-bisphosphate	non-protein substrate	N/A	N/A	In vitro	18927083
+5'-PsiMPase	pseudouridine 5'-phosphate	non-protein substrate	N/A	N/A	In vitro and in vivo	20722631
