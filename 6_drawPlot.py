@@ -72,3 +72,4 @@ if __name__ == '__main__':
             plt.legend(loc='center left', bbox_to_anchor=(0, 0.7),fontsize=20)
     plt.tight_layout()
     plt.show()
+    

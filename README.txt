@@ -7,6 +7,14 @@ Petri net-based prediction of therapeutic targets that recovers abnormally phosp
  python-2.7.13 (Anaconda2-5.0.1)
  gseapy package
 
+[Exclustion of the simulation results that need large space]
+o Excluded files
+  1) ./REFR/Sim_result/*
+  2) ./MYST/Sim_result/*
+  3) ./GeneInhibit/Sim_result_1/*
+  4) ./GeneInhibit/Sim_result_2/*
+  5) ./GeneInhibit/Sim_result_3/*
+
 [Order of the program]
 1. network construction (i.e. myocyte specific phosphorylation network)
  o code
